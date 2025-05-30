@@ -1,0 +1,381 @@
+Equipo1,Equipo2,Partidos,Ganados,Empatados,Perdidos,Goles
+AC Milan,AC Monza,9,7,0,1,21:8
+AC Milan,ACF Fiorentina,174,78,46,50,271:210
+AC Milan,AS Roma,198,86,59,52,286:224
+AC Milan,Atalanta,138,60,46,31,222:143
+AC Milan,Bologna FC,159,75,44,40,254:175
+AC Milan,Cagliari Calcio,87,49,30,8,143:67
+AC Milan,Como 1907,27,15,9,3,54:27
+AC Milan,Empoli FC,36,23,10,3,65:22
+AC Milan,Genoa CFC,115,58,36,21,179:108
+AC Milan,Hellas Verona,70,36,24,10,115:70
+AC Milan,Inter,210,65,63,81,268:292
+AC Milan,Juventus,205,54,71,78,247:277
+AC Milan,Lazio Roma,182,79,64,38,282:207
+AC Milan,Parma Calcio 1913,67,32,18,16,101:73
+AC Milan,SSC Napoli,162,61,51,49,224:182
+AC Milan,Torino FC,177,73,61,43,270:178
+AC Milan,Udinese Calcio,104,46,36,22,176:110
+AC Milan,US Lecce,40,24,14,2,84:35
+AC Milan,Venezia FC,30,18,7,4,53:23
+Parma Calcio 1913,AC Milan,67,16,18,32,73:101
+Parma Calcio 1913,AC Monza,5,2,3,0,8:5
+Parma Calcio 1913,ACF Fiorentina,65,17,27,21,72:83
+Parma Calcio 1913,AS Roma,59,11,11,37,50:106
+Parma Calcio 1913,Atalanta,48,16,15,17,55:62
+Parma Calcio 1913,Bologna FC,40,11,16,13,39:45
+Parma Calcio 1913,Cagliari Calcio,55,21,16,18,76:66
+Parma Calcio 1913,Como 1907,11,5,4,2,16:13
+Parma Calcio 1913,Empoli FC,26,13,5,8,39:31
+Parma Calcio 1913,Genoa CFC,38,17,10,11,57:39
+Parma Calcio 1913,Hellas Verona,21,6,4,11,28:31
+Parma Calcio 1913,Inter,66,19,19,28,82:95
+Parma Calcio 1913,Juventus,68,14,19,35,65:114
+Parma Calcio 1913,Lazio Roma,60,15,16,29,60:85
+Parma Calcio 1913,SSC Napoli,42,15,8,19,54:61
+Parma Calcio 1913,Torino FC,36,15,14,7,52:35
+Parma Calcio 1913,Udinese Calcio,56,23,13,20,83:76
+Parma Calcio 1913,US Lecce,34,17,12,5,55:38
+Parma Calcio 1913,Venezia FC,25,13,8,4,47:30
+Lazio Roma,AC Milan,182,38,64,79,207:282
+Lazio Roma,AC Monza,7,4,3,0,13:5
+Lazio Roma,ACF Fiorentina,161,66,43,52,232:200
+Lazio Roma,AS Roma,173,48,62,63,173:214
+Lazio Roma,Atalanta,119,36,43,40,145:149
+Lazio Roma,Bologna FC,146,56,38,52,204:204
+Lazio Roma,Cagliari Calcio,78,43,17,18,119:73
+Lazio Roma,Como 1907,18,9,4,5,34:22
+Lazio Roma,Empoli FC,32,21,7,4,62:27
+Lazio Roma,Genoa CFC,113,45,27,41,176:156
+Lazio Roma,Hellas Verona,60,26,20,14,102:71
+Lazio Roma,Inter,184,45,62,77,204:298
+Lazio Roma,Juventus,190,47,43,99,209:327
+Lazio Roma,Parma Calcio 1913,60,29,16,15,85:60
+Lazio Roma,SSC Napoli,156,47,49,59,180:209
+Lazio Roma,Torino FC,146,43,61,42,184:174
+Lazio Roma,Udinese Calcio,98,46,24,28,153:122
+Lazio Roma,US Lecce,36,20,7,9,63:39
+Lazio Roma,Venezia FC,28,15,6,7,45:28
+Inter,AC Milan,210,81,63,65,292:268
+Inter,AC Monza,9,6,2,1,17:8
+Inter,ACF Fiorentina,184,80,55,49,289:234
+Inter,AS Roma,207,91,57,58,334:263
+Inter,Atalanta,136,76,35,25,243:122
+Inter,Bologna FC,172,85,39,48,276:200
+Inter,Cagliari Calcio,98,51,31,15,179:96
+Inter,Como 1907,29,19,4,6,57:28
+Inter,Empoli FC,41,34,3,4,85:28
+Inter,Genoa CFC,121,65,32,24,221:122
+Inter,Hellas Verona,71,44,22,5,129:43
+Inter,Juventus,209,58,56,93,248:292
+Inter,Lazio Roma,184,77,62,45,298:204
+Inter,Parma Calcio 1913,66,28,19,19,95:82
+Inter,SSC Napoli,172,75,46,51,245:188
+Inter,Torino FC,170,79,52,39,249:166
+Inter,Udinese Calcio,116,60,32,24,191:115
+Inter,US Lecce,40,31,5,4,95:21
+Inter,Venezia FC,33,21,6,6,70:32
+Hellas Verona,AC Milan,70,10,24,36,70:115
+Hellas Verona,AC Monza,12,5,2,5,15:18
+Hellas Verona,ACF Fiorentina,74,17,21,36,78:110
+Hellas Verona,AS Roma,73,13,21,38,67:108
+Hellas Verona,Atalanta,59,15,16,28,56:87
+Hellas Verona,Bologna FC,65,14,24,27,60:88
+Hellas Verona,Cagliari Calcio,46,16,13,17,53:56
+Hellas Verona,Como 1907,21,7,9,5,21:16
+Hellas Verona,Empoli FC,22,7,7,8,20:22
+Hellas Verona,Genoa CFC,51,14,19,18,65:85
+Hellas Verona,Inter,71,5,22,44,43:129
+Hellas Verona,Juventus,78,13,19,46,65:136
+Hellas Verona,Lazio Roma,60,14,20,26,71:102
+Hellas Verona,Parma Calcio 1913,21,11,4,6,31:28
+Hellas Verona,SSC Napoli,78,15,21,42,62:134
+Hellas Verona,Torino FC,79,16,30,33,78:97
+Hellas Verona,Udinese Calcio,44,14,16,14,56:62
+Hellas Verona,US Lecce,32,11,10,11,39:30
+Hellas Verona,Venezia FC,25,13,7,5,34:28
+AS Roma,AC Milan,198,52,59,86,224:286
+AS Roma,AC Monza,7,4,2,1,15:5
+AS Roma,ACF Fiorentina,185,65,64,56,241:231
+AS Roma,Atalanta,133,56,42,34,198:157
+AS Roma,Bologna FC,158,55,48,55,204:193
+AS Roma,Cagliari Calcio,92,40,29,21,140:106
+AS Roma,Como 1907,27,13,8,6,26:15
+AS Roma,Empoli FC,38,26,6,6,72:32
+AS Roma,Genoa CFC,120,59,27,34,186:122
+AS Roma,Hellas Verona,73,38,21,13,108:67
+AS Roma,Inter,207,58,57,91,263:334
+AS Roma,Juventus,197,48,56,92,212:299
+AS Roma,Lazio Roma,173,63,62,48,214:173
+AS Roma,Parma Calcio 1913,59,37,11,11,106:50
+AS Roma,SSC Napoli,168,59,57,52,214:192
+AS Roma,Torino FC,171,73,45,53,249:222
+AS Roma,Udinese Calcio,108,58,26,24,196:116
+AS Roma,US Lecce,39,27,10,2,85:32
+AS Roma,Venezia FC,28,15,7,6,48:32
+ACF Fiorentina,AC Milan,174,50,46,78,210:271
+ACF Fiorentina,AC Monza,7,3,2,2,12:10
+ACF Fiorentina,AS Roma,185,56,64,65,231:241
+ACF Fiorentina,Atalanta,137,61,41,35,204:136
+ACF Fiorentina,Bologna FC,153,59,48,45,196:164
+ACF Fiorentina,Cagliari Calcio,88,39,25,24,119:87
+ACF Fiorentina,Como 1907,33,13,8,11,39:29
+ACF Fiorentina,Empoli FC,35,16,11,7,49:31
+ACF Fiorentina,Genoa CFC,112,49,41,22,183:133
+ACF Fiorentina,Hellas Verona,74,36,21,17,110:78
+ACF Fiorentina,Inter,184,49,55,80,234:289
+ACF Fiorentina,Juventus,186,37,59,90,191:309
+ACF Fiorentina,Lazio Roma,161,52,43,66,200:232
+ACF Fiorentina,Parma Calcio 1913,65,21,27,17,83:72
+ACF Fiorentina,SSC Napoli,166,57,45,63,205:202
+ACF Fiorentina,Torino FC,157,53,53,51,196:192
+ACF Fiorentina,Udinese Calcio,105,51,29,25,174:117
+ACF Fiorentina,US Lecce,37,16,11,10,62:32
+ACF Fiorentina,Venezia FC,39,17,7,15,57:48
+AC Monza,AC Milan,9,1,0,7,8:21
+AC Monza,ACF Fiorentina,7,2,2,3,10:12
+AC Monza,AS Roma,7,1,2,4,5:15
+AC Monza,Atalanta,11,1,0,10,7:27
+AC Monza,Bologna FC,8,2,2,4,5:11
+AC Monza,Cagliari Calcio,8,2,3,3,7:10
+AC Monza,Como 1907,14,5,5,4,16:18
+AC Monza,Empoli FC,15,4,3,8,12:21
+AC Monza,Genoa CFC,16,4,3,9,15:29
+AC Monza,Hellas Verona,12,5,2,5,18:15
+AC Monza,Inter,9,1,2,6,8:17
+AC Monza,Juventus,9,2,0,7,7:13
+AC Monza,Lazio Roma,7,0,3,4,5:13
+AC Monza,Parma Calcio 1913,5,0,3,2,5:8
+AC Monza,SSC Napoli,12,2,4,6,9:17
+AC Monza,Torino FC,17,0,5,12,16:33
+AC Monza,Udinese Calcio,7,2,3,2,10:10
+AC Monza,US Lecce,16,2,8,6,8:16
+AC Monza,Venezia FC,12,4,1,7,16:23
+Torino FC,AC Milan,177,43,61,73,178:270
+Torino FC,AC Monza,17,12,5,0,33:16
+Torino FC,ACF Fiorentina,157,51,53,53,192:196
+Torino FC,AS Roma,171,53,45,73,222:249
+Torino FC,Atalanta,129,51,44,34,193:148
+Torino FC,Bologna FC,142,49,43,50,180:176
+Torino FC,Cagliari Calcio,83,31,28,24,101:88
+Torino FC,Como 1907,32,17,9,6,46:26
+Torino FC,Empoli FC,42,12,15,15,41:44
+Torino FC,Genoa CFC,121,48,38,35,188:161
+Torino FC,Hellas Verona,79,33,30,16,97:78
+Torino FC,Inter,170,39,52,79,166:249
+Torino FC,Juventus,170,37,49,83,166:262
+Torino FC,Lazio Roma,146,42,61,43,174:184
+Torino FC,Parma Calcio 1913,36,7,14,15,35:52
+Torino FC,SSC Napoli,150,37,59,54,162:191
+Torino FC,Udinese Calcio,81,31,24,26,96:88
+Torino FC,US Lecce,30,13,9,8,47:34
+Torino FC,Venezia FC,38,13,14,11,47:40
+Udinese Calcio,AC Milan,104,22,36,46,110:176
+Udinese Calcio,AC Monza,7,2,3,2,10:10
+Udinese Calcio,ACF Fiorentina,105,25,29,51,117:174
+Udinese Calcio,AS Roma,108,24,26,58,116:196
+Udinese Calcio,Atalanta,87,29,30,28,101:113
+Udinese Calcio,Bologna FC,84,30,26,27,104:104
+Udinese Calcio,Cagliari Calcio,61,29,18,14,100:69
+Udinese Calcio,Como 1907,22,10,6,5,29:25
+Udinese Calcio,Empoli FC,33,14,12,7,45:29
+Udinese Calcio,Genoa CFC,61,21,20,20,93:82
+Udinese Calcio,Hellas Verona,44,14,16,14,62:56
+Udinese Calcio,Inter,116,24,32,60,115:191
+Udinese Calcio,Juventus,107,14,21,72,81:219
+Udinese Calcio,Lazio Roma,98,28,24,46,122:153
+Udinese Calcio,Parma Calcio 1913,56,20,13,23,76:83
+Udinese Calcio,SSC Napoli,89,17,33,39,111:145
+Udinese Calcio,Torino FC,81,26,24,31,88:96
+Udinese Calcio,US Lecce,42,25,4,13,74:49
+Udinese Calcio,Venezia FC,17,8,3,6,28:21
+Venezia FC,AC Milan,30,4,7,18,23:53
+Venezia FC,AC Monza,12,7,1,4,23:16
+Venezia FC,ACF Fiorentina,39,15,7,17,48:57
+Venezia FC,AS Roma,28,6,7,15,32:48
+Venezia FC,Atalanta,32,7,8,16,26:41
+Venezia FC,Bologna FC,36,8,12,16,29:53
+Venezia FC,Cagliari Calcio,23,7,10,6,29:27
+Venezia FC,Como 1907,17,4,7,6,21:22
+Venezia FC,Empoli FC,21,8,9,4,32:29
+Venezia FC,Genoa CFC,40,9,11,20,40:58
+Venezia FC,Hellas Verona,25,5,7,13,28:34
+Venezia FC,Inter,33,6,6,21,32:70
+Venezia FC,Juventus,35,3,12,20,36:73
+Venezia FC,Lazio Roma,28,7,6,15,28:45
+Venezia FC,Parma Calcio 1913,25,4,8,13,30:47
+Venezia FC,SSC Napoli,22,3,11,8,18:28
+Venezia FC,Torino FC,38,11,14,13,40:47
+Venezia FC,Udinese Calcio,17,6,3,8,21:28
+Venezia FC,US Lecce,18,2,9,7,20:26
+SSC Napoli,AC Milan,162,49,51,61,182:224
+SSC Napoli,AC Monza,12,6,4,2,17:9
+SSC Napoli,ACF Fiorentina,166,63,45,57,202:205
+SSC Napoli,AS Roma,168,52,57,59,192:214
+SSC Napoli,Atalanta,120,52,33,34,165:134
+SSC Napoli,Bologna FC,144,58,40,46,219:195
+SSC Napoli,Cagliari Calcio,83,38,31,14,119:63
+SSC Napoli,Como 1907,30,20,5,5,60:23
+SSC Napoli,Empoli FC,29,13,6,10,46:37
+SSC Napoli,Genoa CFC,118,45,43,28,170:137
+SSC Napoli,Hellas Verona,78,42,21,15,134:62
+SSC Napoli,Inter,172,51,46,75,188:245
+SSC Napoli,Juventus,179,43,54,80,203:265
+SSC Napoli,Lazio Roma,156,59,49,47,209:180
+SSC Napoli,Parma Calcio 1913,42,19,8,15,61:54
+SSC Napoli,Torino FC,150,54,59,37,191:162
+SSC Napoli,Udinese Calcio,89,39,33,17,145:111
+SSC Napoli,US Lecce,36,15,14,7,54:36
+SSC Napoli,Venezia FC,22,8,11,3,28:18
+US Lecce,AC Milan,40,2,14,24,35:84
+US Lecce,AC Monza,16,6,8,2,16:8
+US Lecce,ACF Fiorentina,37,10,11,16,32:62
+US Lecce,AS Roma,39,2,10,27,32:85
+US Lecce,Atalanta,34,8,11,15,36:52
+US Lecce,Bologna FC,36,4,14,18,30:52
+US Lecce,Cagliari Calcio,26,9,9,8,34:31
+US Lecce,Como 1907,13,3,4,6,10:18
+US Lecce,Empoli FC,22,6,10,5,25:25
+US Lecce,Genoa CFC,29,7,7,14,26:44
+US Lecce,Hellas Verona,32,11,10,11,30:39
+US Lecce,Inter,40,4,5,31,21:95
+US Lecce,Juventus,44,4,9,31,32:90
+US Lecce,Lazio Roma,36,9,7,20,39:63
+US Lecce,Parma Calcio 1913,34,5,12,17,38:55
+US Lecce,SSC Napoli,36,7,14,15,36:54
+US Lecce,Torino FC,30,8,9,13,34:47
+US Lecce,Udinese Calcio,42,13,4,25,49:74
+US Lecce,Venezia FC,18,7,9,2,26:20
+Juventus,AC Milan,205,78,71,54,277:247
+Juventus,AC Monza,9,7,0,2,13:7
+Juventus,ACF Fiorentina,186,90,59,37,309:191
+Juventus,AS Roma,197,92,56,48,299:212
+Juventus,Atalanta,144,75,51,18,252:129
+Juventus,Bologna FC,166,84,56,25,252:146
+Juventus,Cagliari Calcio,93,49,30,14,139:74
+Juventus,Como 1907,29,15,11,3,41:20
+Juventus,Empoli FC,35,24,5,5,72:26
+Juventus,Genoa CFC,124,76,25,23,254:129
+Juventus,Hellas Verona,78,46,19,13,136:65
+Juventus,Inter,209,93,56,58,292:248
+Juventus,Lazio Roma,190,99,43,47,327:209
+Juventus,Parma Calcio 1913,68,35,19,14,114:65
+Juventus,SSC Napoli,179,80,54,43,265:203
+Juventus,Torino FC,170,83,49,37,262:166
+Juventus,Udinese Calcio,107,72,21,14,219:81
+Juventus,US Lecce,44,31,9,4,90:32
+Juventus,Venezia FC,35,20,12,3,73:36
+Atalanta,AC Milan,138,31,46,60,143:222
+Atalanta,AC Monza,11,10,0,1,27:7
+Atalanta,ACF Fiorentina,137,35,41,61,136:204
+Atalanta,AS Roma,133,34,42,56,157:198
+Atalanta,Bologna FC,120,43,33,44,139:140
+Atalanta,Cagliari Calcio,68,30,13,25,85:80
+Atalanta,Como 1907,25,9,7,9,27:29
+Atalanta,Empoli FC,32,15,11,6,42:24
+Atalanta,Genoa CFC,91,33,28,30,115:100
+Atalanta,Hellas Verona,59,28,16,15,87:56
+Atalanta,Inter,136,25,35,76,122:243
+Atalanta,Juventus,144,18,51,75,129:252
+Atalanta,Lazio Roma,119,40,43,36,149:145
+Atalanta,Parma Calcio 1913,48,17,15,16,62:55
+Atalanta,SSC Napoli,120,34,33,52,134:165
+Atalanta,Torino FC,129,34,44,51,148:193
+Atalanta,Udinese Calcio,87,28,30,29,113:101
+Atalanta,US Lecce,34,15,11,8,52:36
+Atalanta,Venezia FC,32,16,8,7,41:26
+Bologna FC,AC Milan,159,40,44,75,175:254
+Bologna FC,AC Monza,8,4,2,2,11:5
+Bologna FC,ACF Fiorentina,153,45,48,59,164:196
+Bologna FC,AS Roma,158,55,48,55,193:204
+Bologna FC,Atalanta,120,44,33,43,140:139
+Bologna FC,Cagliari Calcio,70,26,22,22,84:76
+Bologna FC,Como 1907,20,6,6,8,24:28
+Bologna FC,Empoli FC,26,9,9,8,34:29
+Bologna FC,Genoa CFC,105,41,35,29,148:133
+Bologna FC,Hellas Verona,65,27,24,14,88:60
+Bologna FC,Inter,172,48,39,85,200:276
+Bologna FC,Juventus,166,25,56,84,146:252
+Bologna FC,Lazio Roma,146,52,38,56,204:204
+Bologna FC,Parma Calcio 1913,40,13,16,11,45:39
+Bologna FC,SSC Napoli,144,46,40,58,195:219
+Bologna FC,Torino FC,142,50,43,49,176:180
+Bologna FC,Udinese Calcio,84,27,26,30,104:104
+Bologna FC,US Lecce,36,18,14,4,52:30
+Bologna FC,Venezia FC,36,16,12,8,53:29
+Como 1907,AC Milan,27,3,9,15,27:54
+Como 1907,AC Monza,14,4,5,5,18:16
+Como 1907,ACF Fiorentina,33,11,8,13,29:39
+Como 1907,AS Roma,27,6,8,13,15:26
+Como 1907,Atalanta,25,9,7,9,29:27
+Como 1907,Bologna FC,20,8,6,6,28:24
+Como 1907,Cagliari Calcio,20,8,6,6,26:22
+Como 1907,Empoli FC,13,5,5,3,12:10
+Como 1907,Genoa CFC,14,4,5,5,17:20
+Como 1907,Hellas Verona,21,5,9,7,16:21
+Como 1907,Inter,29,6,4,19,28:57
+Como 1907,Juventus,29,3,11,15,20:41
+Como 1907,Lazio Roma,18,5,4,9,22:34
+Como 1907,Parma Calcio 1913,11,2,4,5,13:16
+Como 1907,SSC Napoli,30,5,5,20,23:60
+Como 1907,Torino FC,32,6,9,17,26:46
+Como 1907,Udinese Calcio,22,5,6,10,25:29
+Como 1907,US Lecce,13,6,4,3,18:10
+Como 1907,Venezia FC,17,6,7,4,22:21
+Empoli FC,AC Milan,36,3,10,23,22:65
+Empoli FC,AC Monza,15,8,3,4,21:12
+Empoli FC,ACF Fiorentina,35,7,11,16,31:49
+Empoli FC,AS Roma,38,6,6,26,32:72
+Empoli FC,Atalanta,32,6,11,15,24:42
+Empoli FC,Bologna FC,26,8,9,9,29:34
+Empoli FC,Cagliari Calcio,25,12,6,7,37:33
+Empoli FC,Como 1907,13,3,5,5,10:12
+Empoli FC,Genoa CFC,32,8,14,10,31:39
+Empoli FC,Hellas Verona,22,8,7,7,22:20
+Empoli FC,Inter,41,4,3,34,28:85
+Empoli FC,Juventus,35,5,5,24,26:72
+Empoli FC,Lazio Roma,32,4,7,21,27:62
+Empoli FC,Parma Calcio 1913,26,8,5,13,31:39
+Empoli FC,SSC Napoli,29,10,6,13,37:46
+Empoli FC,Torino FC,42,15,15,12,44:41
+Empoli FC,Udinese Calcio,33,7,12,14,29:45
+Empoli FC,US Lecce,22,5,10,6,25:25
+Empoli FC,Venezia FC,21,4,9,8,29:32
+Cagliari Calcio,AC Milan,87,8,30,49,67:143
+Cagliari Calcio,AC Monza,8,3,3,2,10:7
+Cagliari Calcio,ACF Fiorentina,88,24,25,39,87:119
+Cagliari Calcio,AS Roma,92,21,29,40,106:140
+Cagliari Calcio,Atalanta,68,25,13,30,80:85
+Cagliari Calcio,Bologna FC,70,22,22,26,76:84
+Cagliari Calcio,Como 1907,20,6,6,8,22:26
+Cagliari Calcio,Empoli FC,25,7,6,12,33:37
+Cagliari Calcio,Genoa CFC,65,25,18,22,91:85
+Cagliari Calcio,Hellas Verona,46,17,13,16,56:53
+Cagliari Calcio,Inter,98,15,31,51,96:179
+Cagliari Calcio,Juventus,93,14,30,49,74:139
+Cagliari Calcio,Lazio Roma,78,18,17,43,73:119
+Cagliari Calcio,Parma Calcio 1913,55,18,16,21,66:76
+Cagliari Calcio,SSC Napoli,83,14,31,38,63:119
+Cagliari Calcio,Torino FC,83,24,28,31,88:101
+Cagliari Calcio,Udinese Calcio,61,14,18,29,69:100
+Cagliari Calcio,US Lecce,26,8,9,9,31:34
+Cagliari Calcio,Venezia FC,23,6,10,7,27:29
+Genoa CFC,AC Milan,115,21,36,58,108:179
+Genoa CFC,AC Monza,16,9,3,4,29:15
+Genoa CFC,ACF Fiorentina,112,22,41,49,133:183
+Genoa CFC,AS Roma,120,34,27,59,122:186
+Genoa CFC,Atalanta,91,30,28,33,100:115
+Genoa CFC,Bologna FC,105,29,35,41,133:148
+Genoa CFC,Cagliari Calcio,65,22,18,25,85:91
+Genoa CFC,Como 1907,14,5,5,4,20:17
+Genoa CFC,Empoli FC,32,10,14,8,39:31
+Genoa CFC,Hellas Verona,51,18,19,14,85:65
+Genoa CFC,Inter,121,24,32,65,122:221
+Genoa CFC,Juventus,124,23,25,76,129:254
+Genoa CFC,Lazio Roma,113,41,27,45,156:176
+Genoa CFC,Parma Calcio 1913,38,11,10,17,39:57
+Genoa CFC,SSC Napoli,118,28,43,45,137:170
+Genoa CFC,Torino FC,121,35,38,48,161:188
+Genoa CFC,Udinese Calcio,61,20,20,21,82:93
+Genoa CFC,US Lecce,29,14,7,7,44:26
+Genoa CFC,Venezia FC,40,20,11,9,58:40

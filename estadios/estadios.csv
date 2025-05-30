@@ -1,21 +1,19 @@
-nombre           , nombre_estadio            , capacidad, 
-SSC Napoli       , Diego Maradona            ,     60240, 
-Inter            , Giuseppe Meazza           ,     75923, 
-Atalanta         , Gewiss Stadium            ,     26562, 
-Juventus         , Allianz Stadium           ,     41254, 
-AS Roma          , Olimpico                  ,     70634, 
-Lazio Roma       , Olimpico                  ,     70634, 
-ACF Fiorentina   , Artemio Franchi           ,     47284, 
-Bologna FC       , Renato Dall'Ara           ,     38375, 
-AC Milan         , Giuseppe Meazza           ,     75923, 
-Como 1907        , Stadio Giuseppe Sinigaglia,     13602, 
-Torino FC        , Olimpico                  ,     27958, 
-Udinese Calcio   , Bluenergy Stadium         ,     25144, 
-Genoa CFC        , Luigi Ferraris            ,     33205, 
-Cagliari Calcio  , Unipol Domus              ,     16416, 
-Hellas Verona    , Marc Antonio Bentegodi    ,     39211, 
-Parma Calcio 1913, Ennio Tardini             ,     28783, 
-Empoli FC        , Carlo Castellani          ,     19847, 
-US Lecce         , Via del Mare              ,     33876, 
-Venezia FC       , Pierluigi Penzo           ,     11150, 
-AC Monza         , Stadio Brianteo           ,     18568, 
+nombre_estadio,capacidad
+Allianz Stadium,41254
+Artemio Franchi,47284
+Bluenergy Stadium,25144
+Carlo Castellani,19847
+Diego Maradona,60240
+Ennio Tardini,28783
+Gewiss Stadium,26562
+Giuseppe Meazza,75923
+Luigi Ferraris,33205
+Marc Antonio Bentegodi,39211
+Olimpico,70634
+Pierluigi Penzo,11150
+Renato Dall'Ara,38375
+Stadio Brianteo,18568
+Stadio Giuseppe Sinigaglia,13602
+Olimpico di Torino,27958
+Via del Mare,33876
+Unipol Domus,16416

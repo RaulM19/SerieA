@@ -1,0 +1,570 @@
+Jugadores,posicion,#,F. Nacim.,Valor de mercado,Valor de mercado Num,Equipo
+Mike Maignan,Portero,16.0,03/07/1995,"25,00 mill. €",25000000.0,AC Milan
+Marco Sportiello,Portero,57.0,10/05/1992,"1,50 mill. €",1500000.0,AC Milan
+Lorenzo Torriani,Portero,96.0,31/01/2005,500 mil €,500000.0,AC Milan
+Fikayo Tomori,Defensa central,23.0,19/12/1997,"20,00 mill. €",20000000.0,AC Milan
+Malick Thiaw,Defensa central,28.0,08/08/2001,"20,00 mill. €",20000000.0,AC Milan
+Strahinja Pavlović,Defensa central,31.0,24/05/2001,"18,00 mill. €",18000000.0,AC Milan
+Matteo Gabbia,Defensa central,46.0,21/10/1999,"14,00 mill. €",14000000.0,AC Milan
+Theo Hernández,Lateral izquierdo,19.0,06/10/1997,"40,00 mill. €",40000000.0,AC Milan
+Álex Jiménez,Lateral derecho,20.0,08/05/2005,"10,00 mill. €",10000000.0,AC Milan
+Emerson Royal,Lateral derecho,22.0,14/01/1999,"10,00 mill. €",10000000.0,AC Milan
+Kyle Walker,Lateral derecho,32.0,28/05/1990,"6,00 mill. €",6000000.0,AC Milan
+Filippo Terracciano,Lateral derecho,42.0,08/02/2003,"4,50 mill. €",4500000.0,AC Milan
+Alessandro Florenzi,Lateral derecho,24.0,11/03/1991,"1,50 mill. €",1500000.0,AC Milan
+Youssouf Fofana,Pivote,29.0,10/01/1999,"30,00 mill. €",30000000.0,AC Milan
+Tijjani Reijnders,Mediocentro,14.0,29/07/1998,"50,00 mill. €",50000000.0,AC Milan
+Yunus Musah,Mediocentro,80.0,29/11/2002,"22,00 mill. €",22000000.0,AC Milan
+Ruben Loftus-Cheek,Mediocentro,8.0,23/01/1996,"16,00 mill. €",16000000.0,AC Milan
+Warren Bondo,Mediocentro,38.0,15/09/2003,"10,00 mill. €",10000000.0,AC Milan
+Rafael Leão,Extremo izquierdo,10.0,10/06/1999,"75,00 mill. €",75000000.0,AC Milan
+Riccardo Sottil,Extremo izquierdo,99.0,03/06/1999,"6,00 mill. €",6000000.0,AC Milan
+Christian Pulisic,Extremo derecho,11.0,18/09/1998,"50,00 mill. €",50000000.0,AC Milan
+Samuel Chukwueze,Extremo derecho,21.0,22/05/1999,"14,00 mill. €",14000000.0,AC Milan
+João Félix,Mediapunta,79.0,10/11/1999,"25,00 mill. €",25000000.0,AC Milan
+Santiago Gimenez,Delantero centro,7.0,18/04/2001,"37,00 mill. €",37000000.0,AC Milan
+Tammy Abraham,Delantero centro,90.0,02/10/1997,"15,00 mill. €",15000000.0,AC Milan
+Luka Jović,Delantero centro,9.0,23/12/1997,"2,50 mill. €",2500000.0,AC Milan
+Josep Martínez,Portero,13.0,27/05/1998,"12,00 mill. €",12000000.0,Inter
+Yann Sommer,Portero,1.0,17/12/1988,"4,00 mill. €",4000000.0,Inter
+Raffaele Di Gennaro,Portero,12.0,03/10/1993,300 mil €,300000.0,Inter
+Alessandro Bastoni,Defensa central,95.0,13/04/1999,"80,00 mill. €",80000000.0,Inter
+Benjamin Pavard,Defensa central,28.0,28/03/1996,"30,00 mill. €",30000000.0,Inter
+Yann Bisseck,Defensa central,31.0,29/11/2000,"30,00 mill. €",30000000.0,Inter
+Stefan de Vrij,Defensa central,6.0,05/02/1992,"7,00 mill. €",7000000.0,Inter
+Francesco Acerbi,Defensa central,15.0,10/02/1988,"3,00 mill. €",3000000.0,Inter
+Federico Dimarco,Lateral izquierdo,32.0,10/11/1997,"60,00 mill. €",60000000.0,Inter
+Carlos Augusto,Lateral izquierdo,30.0,07/01/1999,"22,00 mill. €",22000000.0,Inter
+Denzel Dumfries,Lateral derecho,2.0,18/04/1996,"28,00 mill. €",28000000.0,Inter
+Matteo Darmian,Lateral derecho,36.0,02/12/1989,"4,00 mill. €",4000000.0,Inter
+Hakan Çalhanoğlu,Pivote,20.0,08/02/1994,"35,00 mill. €",35000000.0,Inter
+Kristjan Asllani,Pivote,21.0,09/03/2002,"15,00 mill. €",15000000.0,Inter
+Nicolò Barella,Mediocentro,23.0,07/02/1997,"80,00 mill. €",80000000.0,Inter
+Davide Frattesi,Mediocentro,16.0,22/09/1999,"32,00 mill. €",32000000.0,Inter
+Piotr Zieliński,Mediocentro,7.0,20/05/1994,"14,00 mill. €",14000000.0,Inter
+Henrikh Mkhitaryan,Mediocentro,22.0,21/01/1989,"4,00 mill. €",4000000.0,Inter
+Nicola Zalewski,Interior izquierdo,59.0,23/01/2002,"10,00 mill. €",10000000.0,Inter
+Valentín Carboni,Mediocentro ofensivo,45.0,05/03/2005,"12,00 mill. €",12000000.0,Inter
+Joaquín Correa,Mediapunta,11.0,13/08/1994,"3,00 mill. €",3000000.0,Inter
+Lautaro Martínez,Delantero centro,10.0,22/08/1997,"95,00 mill. €",95000000.0,Inter
+Marcus Thuram,Delantero centro,9.0,06/08/1997,"75,00 mill. €",75000000.0,Inter
+Mehdi Taremi,Delantero centro,99.0,18/07/1992,"5,00 mill. €",5000000.0,Inter
+Marko Arnautovic,Delantero centro,8.0,19/04/1989,"3,50 mill. €",3500000.0,Inter
+Ivan Provedel,Portero,94,17/03/1994,"7,00 mill. €",7000000.0,Lazio Roma
+Christos Mandas,Portero,35,17/09/2001,"5,00 mill. €",5000000.0,Lazio Roma
+Davide Renzetti,Portero,59,09/06/2006,100 mil €,100000.0,Lazio Roma
+Alessio Furlanetto,Portero,55,07/02/2002,50 mil €,50000.0,Lazio Roma
+Mario Gila,Defensa central,34,29/08/2000,"28,00 mill. €",28000000.0,Lazio Roma
+Alessio Romagnoli,Defensa central,13,12/01/1995,"12,00 mill. €",12000000.0,Lazio Roma
+Samuel Gigot,Defensa central,2,12/10/1993,"4,00 mill. €",4000000.0,Lazio Roma
+Patric,Defensa central,4,17/04/1993,"4,00 mill. €",4000000.0,Lazio Roma
+Oliver Provstgaard,Defensa central,25,04/06/2003,"3,50 mill. €",3500000.0,Lazio Roma
+Filipe Bordon,Defensa central,76,24/06/2005,500 mil €,500000.0,Lazio Roma
+Nuno Tavares,Lateral izquierdo,30,26/01/2000,"25,00 mill. €",25000000.0,Lazio Roma
+Luca Pellegrini,Lateral izquierdo,3,07/03/1999,"2,50 mill. €",2500000.0,Lazio Roma
+Adam Marusic,Lateral derecho,77,17/10/1992,"4,00 mill. €",4000000.0,Lazio Roma
+Elseid Hysaj,Lateral derecho,23,02/02/1994,"2,00 mill. €",2000000.0,Lazio Roma
+Nicolò Rovella,Pivote,6,04/12/2001,"28,00 mill. €",28000000.0,Lazio Roma
+Reda Belahyane,Pivote,21,01/06/2004,"10,00 mill. €",10000000.0,Lazio Roma
+Mattéo Guendouzi,Mediocentro,8,14/04/1999,"32,00 mill. €",32000000.0,Lazio Roma
+Matías Vecino,Mediocentro,5,24/08/1991,"2,50 mill. €",2500000.0,Lazio Roma
+Toma Bašić,Mediocentro,26,25/11/1996,"1,00 mill. €",1000000.0,Lazio Roma
+Manuel Lazzari,Interior derecho,29,29/11/1993,"4,00 mill. €",4000000.0,Lazio Roma
+Fisayo Dele-Bashiru,Mediocentro ofensivo,7,06/02/2001,"8,00 mill. €",8000000.0,Lazio Roma
+Arijon Ibrahimovic,Mediocentro ofensivo,27,11/12/2005,"4,00 mill. €",4000000.0,Lazio Roma
+Cristo Muñoz,Mediocentro ofensivo,-,01/02/2005,250 mil €,250000.0,Lazio Roma
+André Anderson,Mediocentro ofensivo,28,23/09/1999,200 mil €,200000.0,Lazio Roma
+Mattia Zaccagni,Extremo izquierdo,10,16/06/1995,"20,00 mill. €",20000000.0,Lazio Roma
+Gustav Isaksen,Extremo derecho,18,19/04/2001,"20,00 mill. €",20000000.0,Lazio Roma
+Tijjani Noslin,Extremo derecho,14,07/07/1999,"12,00 mill. €",12000000.0,Lazio Roma
+Loum Tchaouna,Extremo derecho,20,08/09/2003,"10,00 mill. €",10000000.0,Lazio Roma
+Pedro,Extremo derecho,9,28/07/1987,"1,00 mill. €",1000000.0,Lazio Roma
+Taty Castellanos,Delantero centro,11,03/10/1998,"25,00 mill. €",25000000.0,Lazio Roma
+Boulaye Dia,Delantero centro,19,16/11/1996,"15,00 mill. €",15000000.0,Lazio Roma
+Filip Stanković,Portero,35.0,25/02/2002,"6,00 mill. €",6000000.0,Venezia FC
+Andrei Radu,Portero,28.0,28/05/1997,"2,50 mill. €",2500000.0,Venezia FC
+Jesse Joronen,Portero,1.0,21/03/1993,600 mil €,600000.0,Venezia FC
+Matteo Grandi,Portero,23.0,12/10/1992,150 mil €,150000.0,Venezia FC
+Jay Idzes,Defensa central,4.0,02/06/2000,"5,00 mill. €",5000000.0,Venezia FC
+Joël Schingtienne,Defensa central,25.0,14/08/2002,"3,00 mill. €",3000000.0,Venezia FC
+Michael Svoboda,Defensa central,30.0,15/10/1998,"3,00 mill. €",3000000.0,Venezia FC
+Fali Candé,Defensa central,2.0,24/01/1998,"2,00 mill. €",2000000.0,Venezia FC
+Alessandro Marcandalli,Defensa central,16.0,25/10/2002,"2,00 mill. €",2000000.0,Venezia FC
+Marin Šverko,Defensa central,33.0,04/02/1998,"1,20 mill. €",1200000.0,Venezia FC
+Ridgeciano Haps,Lateral izquierdo,5.0,12/06/1993,"1,00 mill. €",1000000.0,Venezia FC
+Franco Carboni,Lateral izquierdo,79.0,04/04/2003,"1,00 mill. €",1000000.0,Venezia FC
+Richie Sagrado,Lateral derecho,21.0,30/01/2004,"2,00 mill. €",2000000.0,Venezia FC
+Francesco Zampano,Lateral derecho,7.0,30/09/1993,"1,10 mill. €",1100000.0,Venezia FC
+Cheick Condé,Pivote,17.0,26/07/2000,"2,00 mill. €",2000000.0,Venezia FC
+Hans Nicolussi Caviglia,Mediocentro,14.0,18/06/2000,"8,00 mill. €",8000000.0,Venezia FC
+Gianluca Busio,Mediocentro,6.0,28/05/2002,"6,50 mill. €",6500000.0,Venezia FC
+Kike Pérez,Mediocentro,71.0,14/02/1997,"2,80 mill. €",2800000.0,Venezia FC
+Mikael Egill Ellertsson,Mediocentro,77.0,11/03/2002,"2,80 mill. €",2800000.0,Venezia FC
+Alfred Duncan,Mediocentro,32.0,10/03/1993,"2,50 mill. €",2500000.0,Venezia FC
+Issa Doumbia,Mediocentro,97.0,16/10/2003,"2,00 mill. €",2000000.0,Venezia FC
+Domen Crnigoj,Mediocentro,22.0,18/11/1995,900 mil €,900000.0,Venezia FC
+Bjarki Bjarkason,Interior izquierdo,19.0,11/05/2000,800 mil €,800000.0,Venezia FC
+Gaetano Oristanio,Mediocentro ofensivo,11.0,28/09/2002,"6,50 mill. €",6500000.0,Venezia FC
+John Yeboah,Mediocentro ofensivo,10.0,23/06/2000,"2,50 mill. €",2500000.0,Venezia FC
+Saad El Haddad,Mediocentro ofensivo,80.0,24/07/2005,250 mil €,250000.0,Venezia FC
+Alessio Zerbin,Extremo izquierdo,24.0,03/03/1999,"4,00 mill. €",4000000.0,Venezia FC
+Daniel Fila,Delantero centro,18.0,21/08/2002,"3,00 mill. €",3000000.0,Venezia FC
+Christian Gytkjær,Delantero centro,9.0,06/05/1990,700 mil €,700000.0,Venezia FC
+Mirko Marić,Delantero centro,99.0,16/05/1995,700 mil €,700000.0,Venezia FC
+Alex Meret,Portero,1.0,22/03/1997,"12,00 mill. €",12000000.0,SSC Napoli
+Simone Scuffet,Portero,96.0,31/05/1996,"2,00 mill. €",2000000.0,SSC Napoli
+Nikita Contini,Portero,14.0,21/05/1996,400 mil €,400000.0,SSC Napoli
+Claudio Turi,Portero,12.0,06/05/2005,150 mil €,150000.0,SSC Napoli
+Alessandro Buongiorno,Defensa central,4.0,06/06/1999,"45,00 mill. €",45000000.0,SSC Napoli
+Amir Rrahmani,Defensa central,13.0,24/02/1994,"12,00 mill. €",12000000.0,SSC Napoli
+Rafa Marín,Defensa central,16.0,19/05/2002,"7,00 mill. €",7000000.0,SSC Napoli
+Juan Jesus,Defensa central,5.0,10/06/1991,"1,50 mill. €",1500000.0,SSC Napoli
+Mathías Olivera,Lateral izquierdo,17.0,31/10/1997,"18,00 mill. €",18000000.0,SSC Napoli
+Leonardo Spinazzola,Lateral izquierdo,37.0,25/03/1993,"3,50 mill. €",3500000.0,SSC Napoli
+Giovanni Di Lorenzo,Lateral derecho,22.0,04/08/1993,"15,00 mill. €",15000000.0,SSC Napoli
+Pasquale Mazzocchi,Lateral derecho,30.0,27/07/1995,"3,00 mill. €",3000000.0,SSC Napoli
+Stanislav Lobotka,Pivote,68.0,25/11/1994,"25,00 mill. €",25000000.0,SSC Napoli
+Billy Gilmour,Pivote,6.0,11/06/2001,"16,00 mill. €",16000000.0,SSC Napoli
+Scott McTominay,Mediocentro,8.0,08/12/1996,"40,00 mill. €",40000000.0,SSC Napoli
+Frank Anguissa,Mediocentro,99.0,16/11/1995,"27,00 mill. €",27000000.0,SSC Napoli
+Philip Billing,Mediocentro,15.0,11/06/1996,"12,00 mill. €",12000000.0,SSC Napoli
+Luis Hasa,Mediocentro,29.0,06/01/2004,"1,00 mill. €",1000000.0,SSC Napoli
+David Neres,Extremo izquierdo,7.0,03/03/1997,"30,00 mill. €",30000000.0,SSC Napoli
+Noah Okafor,Extremo izquierdo,9.0,24/05/2000,"15,00 mill. €",15000000.0,SSC Napoli
+Matteo Politano,Extremo derecho,21.0,03/08/1993,"10,00 mill. €",10000000.0,SSC Napoli
+Cyril Ngonge,Extremo derecho,26.0,26/05/2000,"10,00 mill. €",10000000.0,SSC Napoli
+Giacomo Raspadori,Mediapunta,81.0,18/02/2000,"20,00 mill. €",20000000.0,SSC Napoli
+Romelu Lukaku,Delantero centro,11.0,13/05/1993,"22,00 mill. €",22000000.0,SSC Napoli
+Giovanni Simeone,Delantero centro,18.0,05/07/1995,"8,00 mill. €",8000000.0,SSC Napoli
+Maduka Okoye,Portero,40.0,28/08/1999,"7,50 mill. €",7500000.0,Udinese Calcio
+Răzvan Sava,Portero,90.0,21/06/2002,"2,50 mill. €",2500000.0,Udinese Calcio
+Daniele Padelli,Portero,93.0,25/10/1985,150 mil €,150000.0,Udinese Calcio
+Edoardo Piana,Portero,66.0,29/09/2003,50 mil €,50000.0,Udinese Calcio
+Jaka Bijol,Defensa central,29.0,05/02/1999,"18,00 mill. €",18000000.0,Udinese Calcio
+Oumar Solet,Defensa central,28.0,07/02/2000,"14,00 mill. €",14000000.0,Udinese Calcio
+Isaak Touré,Defensa central,95.0,28/03/2003,"8,00 mill. €",8000000.0,Udinese Calcio
+Thomas Kristensen,Defensa central,31.0,17/01/2002,"6,00 mill. €",6000000.0,Udinese Calcio
+Lautaro Giannetti,Defensa central,30.0,13/11/1993,"2,50 mill. €",2500000.0,Udinese Calcio
+Matteo Palma,Defensa central,16.0,13/03/2008,"1,00 mill. €",1000000.0,Udinese Calcio
+Christian Kabasele,Defensa central,27.0,24/02/1991,"1,00 mill. €",1000000.0,Udinese Calcio
+Jordan Zemura,Lateral izquierdo,33.0,14/11/1999,"5,00 mill. €",5000000.0,Udinese Calcio
+Hassane Kamara,Lateral izquierdo,11.0,05/03/1994,"3,50 mill. €",3500000.0,Udinese Calcio
+Kingsley Ehizibue,Lateral derecho,19.0,25/05/1995,"3,00 mill. €",3000000.0,Udinese Calcio
+Jesper Karlström,Pivote,25.0,21/06/1995,"3,50 mill. €",3500000.0,Udinese Calcio
+Sandi Lovrić,Mediocentro,8.0,28/03/1998,"8,00 mill. €",8000000.0,Udinese Calcio
+Jurgen Ekkelenkamp,Mediocentro,32.0,05/04/2000,"7,50 mill. €",7500000.0,Udinese Calcio
+Martín Payero,Mediocentro,5.0,11/09/1998,"6,00 mill. €",6000000.0,Udinese Calcio
+Arthur Atta,Mediocentro,14.0,14/01/2003,"2,50 mill. €",2500000.0,Udinese Calcio
+Oier Zarraga,Mediocentro,6.0,04/01/1999,"2,00 mill. €",2000000.0,Udinese Calcio
+Rui Modesto,Interior derecho,77.0,07/10/1999,"1,80 mill. €",1800000.0,Udinese Calcio
+Simone Pafundi,Mediocentro ofensivo,20.0,14/03/2006,"6,00 mill. €",6000000.0,Udinese Calcio
+David Pejičić,Mediocentro ofensivo,79.0,14/06/2007,"1,00 mill. €",1000000.0,Udinese Calcio
+Florian Thauvin,Mediapunta,10.0,26/01/1993,"5,00 mill. €",5000000.0,Udinese Calcio
+Lorenzo Lucca,Delantero centro,17.0,10/09/2000,"22,00 mill. €",22000000.0,Udinese Calcio
+Brenner,Delantero centro,22.0,16/01/2000,"4,50 mill. €",4500000.0,Udinese Calcio
+Keinan Davis,Delantero centro,9.0,13/02/1998,"4,00 mill. €",4000000.0,Udinese Calcio
+Damián Pizarro,Delantero centro,99.0,28/03/2005,"4,00 mill. €",4000000.0,Udinese Calcio
+Iker Bravo,Delantero centro,21.0,13/01/2005,"2,50 mill. €",2500000.0,Udinese Calcio
+Alexis Sánchez,Delantero centro,7.0,19/12/1988,"2,00 mill. €",2000000.0,Udinese Calcio
+Lorenzo Montipò,Portero,1.0,20/02/1996,"3,00 mill. €",3000000.0,Hellas Verona
+Federico Magro,Portero,98.0,10/01/2005,300 mil €,300000.0,Hellas Verona
+Simone Perilli,Portero,34.0,07/01/1995,200 mil €,200000.0,Hellas Verona
+Alessandro Berardi,Portero,22.0,16/01/1991,50 mil €,50000.0,Hellas Verona
+Diego Coppola,Defensa central,42.0,28/12/2003,"7,50 mill. €",7500000.0,Hellas Verona
+Nicolás Valentini,Defensa central,6.0,06/04/2001,"4,50 mill. €",4500000.0,Hellas Verona
+Flavius Daniliuc,Defensa central,4.0,27/04/2001,"4,00 mill. €",4000000.0,Hellas Verona
+Daniele Ghilardi,Defensa central,87.0,06/01/2003,"4,00 mill. €",4000000.0,Hellas Verona
+Paweł Dawidowicz,Defensa central,27.0,20/05/1995,"2,50 mill. €",2500000.0,Hellas Verona
+Tobias Slotsager,Defensa central,19.0,01/01/2006,"2,00 mill. €",2000000.0,Hellas Verona
+Luan Patrick,Defensa central,30.0,20/01/2002,"1,30 mill. €",1300000.0,Hellas Verona
+Yllan Okou,Defensa central,15.0,23/12/2002,900 mil €,900000.0,Hellas Verona
+Domagoj Bradarić,Lateral izquierdo,12.0,10/12/1999,"4,00 mill. €",4000000.0,Hellas Verona
+Martin Frese,Lateral izquierdo,3.0,04/01/1998,"2,00 mill. €",2000000.0,Hellas Verona
+Jackson Tchatchoua,Lateral derecho,38.0,14/09/2001,"8,00 mill. €",8000000.0,Hellas Verona
+Davide Faraoni,Lateral derecho,5.0,25/10/1991,"1,00 mill. €",1000000.0,Hellas Verona
+Daniel Oyegoke,Lateral derecho,2.0,03/01/2003,400 mil €,400000.0,Hellas Verona
+Cheikh Niasse,Pivote,10.0,19/01/2000,"2,00 mill. €",2000000.0,Hellas Verona
+Suat Serdar,Mediocentro,25.0,11/04/1997,"5,00 mill. €",5000000.0,Hellas Verona
+Ondrej Duda,Mediocentro,33.0,05/12/1994,"4,00 mill. €",4000000.0,Hellas Verona
+Antoine Bernede,Mediocentro,24.0,26/05/1999,"3,50 mill. €",3500000.0,Hellas Verona
+Abdou Harroui,Mediocentro,18.0,13/01/1998,"2,00 mill. €",2000000.0,Hellas Verona
+Darko Lazović,Interior izquierdo,8.0,15/09/1990,"1,00 mill. €",1000000.0,Hellas Verona
+Tomas Suslov,Mediocentro ofensivo,31.0,07/06/2002,"6,00 mill. €",6000000.0,Hellas Verona
+Grigoris Kastanos,Mediocentro ofensivo,20.0,30/01/1998,"1,80 mill. €",1800000.0,Hellas Verona
+Alphadjo Cissè,Mediocentro ofensivo,80.0,22/10/2006,"1,40 mill. €",1400000.0,Hellas Verona
+Casper Tengstedt,Delantero centro,11.0,01/06/2000,"7,00 mill. €",7000000.0,Hellas Verona
+Amin Sarr,Delantero centro,9.0,11/03/2001,"4,00 mill. €",4000000.0,Hellas Verona
+Daniel Mosquera,Delantero centro,35.0,20/10/1999,"1,50 mill. €",1500000.0,Hellas Verona
+Dailon Rocha Livramento,Delantero centro,14.0,04/05/2001,800 mil €,800000.0,Hellas Verona
+Mathis Lambourde,Delantero centro,7.0,09/01/2006,500 mil €,500000.0,Hellas Verona
+Junior Ajayi,Delantero centro,72.0,11/10/2004,300 mil €,300000.0,Hellas Verona
+Wladimiro Falcone,Portero,30,12/04/1995,"4,00 mill. €",4000000.0,US Lecce
+Christian Früchtl,Portero,1,28/01/2000,"1,50 mill. €",1500000.0,US Lecce
+Jasper Samooja,Portero,32,21/07/2003,75 mil €,75000.0,US Lecce
+Federico Baschirotto,Defensa central,6,20/09/1996,"3,80 mill. €",3800000.0,US Lecce
+Kialonda Gaspar,Defensa central,4,27/09/1997,"2,50 mill. €",2500000.0,US Lecce
+Gaby Jean,Defensa central,19,19/02/2000,"2,00 mill. €",2000000.0,US Lecce
+Tiago Gabriel,Defensa central,44,26/12/2004,"1,00 mill. €",1000000.0,US Lecce
+Sebastian Esposito,Defensa central,28,21/04/2005,200 mil €,200000.0,US Lecce
+Elijah Scott,Defensa central,2,03/02/2006,-,,US Lecce
+Antonino Gallo,Lateral izquierdo,25,05/01/2000,"4,50 mill. €",4500000.0,US Lecce
+Marco Sala,Lateral izquierdo,99,04/06/1999,"1,00 mill. €",1000000.0,US Lecce
+Vernon Addo,Lateral izquierdo,42,24/05/2005,150 mil €,150000.0,US Lecce
+Frédéric Guilbert,Lateral derecho,12,24/12/1994,"2,50 mill. €",2500000.0,US Lecce
+Danilo Veiga,Lateral derecho,17,25/09/2002,"1,00 mill. €",1000000.0,US Lecce
+Ylber Ramadani,Pivote,20,12/04/1996,"2,20 mill. €",2200000.0,US Lecce
+Balthazar Pierret,Pivote,75,15/05/2000,"1,50 mill. €",1500000.0,US Lecce
+Thórir Jóhann Helgason,Mediocentro,14,28/09/2000,"2,50 mill. €",2500000.0,US Lecce
+Lassana Coulibaly,Mediocentro,29,10/04/1996,"2,50 mill. €",2500000.0,US Lecce
+Mohamed Kaba,Mediocentro,77,27/10/2001,"2,30 mill. €",2300000.0,US Lecce
+Hamza Rafia,Mediocentro,8,02/04/1999,"1,70 mill. €",1700000.0,US Lecce
+Medon Berisha,Mediocentro,5,21/10/2003,"1,00 mill. €",1000000.0,US Lecce
+Joan González,Mediocentro,16,01/02/2002,800 mil €,800000.0,US Lecce
+Filip Marchwinski,Mediocentro ofensivo,36,10/01/2002,"3,00 mill. €",3000000.0,US Lecce
+Lameck Banda,Extremo izquierdo,22,29/01/2001,"6,00 mill. €",6000000.0,US Lecce
+Jesper Karlsson,Extremo izquierdo,37,25/07/1998,"4,50 mill. €",4500000.0,US Lecce
+Tete Morente,Extremo izquierdo,7,04/12/1996,"2,00 mill. €",2000000.0,US Lecce
+Ante Rebić,Extremo izquierdo,3,21/09/1993,"1,50 mill. €",1500000.0,US Lecce
+Nicola Sansone,Extremo izquierdo,11,10/09/1991,400 mil €,400000.0,US Lecce
+Santiago Pierotti,Extremo derecho,50,03/04/2001,"4,00 mill. €",4000000.0,US Lecce
+Konan N’Dri,Extremo derecho,10,27/10/2000,"1,50 mill. €",1500000.0,US Lecce
+Jeppe Corfitzen,Extremo derecho,-,29/12/2004,400 mil €,400000.0,US Lecce
+Nikola Krstović,Delantero centro,9,05/04/2000,"14,00 mill. €",14000000.0,US Lecce
+Rareș Burnete,Delantero centro,23,31/01/2004,700 mil €,700000.0,US Lecce
+Joel Voelkerling Persson,Delantero centro,31,15/01/2003,350 mil €,350000.0,US Lecce
+Stefano Turati,Portero,30.0,05/09/2001,"7,50 mill. €",7500000.0,AC Monza
+Semuel Pizzignacco,Portero,21.0,01/09/2001,800 mil €,800000.0,AC Monza
+Andrea Mazza,Portero,69.0,19/03/2004,75 mil €,75000.0,AC Monza
+Tomás Palacios,Defensa central,22.0,28/04/2003,"5,00 mill. €",5000000.0,AC Monza
+Andrea Carboni,Defensa central,44.0,04/02/2001,"3,40 mill. €",3400000.0,AC Monza
+Armando Izzo,Defensa central,4.0,02/03/1992,"2,50 mill. €",2500000.0,AC Monza
+Stefan Leković,Defensa central,3.0,09/01/2004,"1,80 mill. €",1800000.0,AC Monza
+Luca Caldirola,Defensa central,5.0,01/02/1991,800 mil €,800000.0,AC Monza
+Danilo D'Ambrosio,Defensa central,33.0,09/09/1988,800 mil €,800000.0,AC Monza
+Arvid Brorsson,Defensa central,2.0,08/05/1999,600 mil €,600000.0,AC Monza
+Samuele Birindelli,Lateral derecho,19.0,19/07/1999,"3,00 mill. €",3000000.0,AC Monza
+Pedro Pereira,Lateral derecho,13.0,22/01/1998,"1,80 mill. €",1800000.0,AC Monza
+Leonardo Colombo,Pivote,4.0,04/06/2005,250 mil €,250000.0,AC Monza
+Matteo Pessina,Mediocentro,32.0,21/04/1997,"9,00 mill. €",9000000.0,AC Monza
+Kacper Urbanski,Mediocentro,8.0,07/09/2004,"7,00 mill. €",7000000.0,AC Monza
+Alessandro Bianco,Mediocentro,42.0,01/10/2002,"5,00 mill. €",5000000.0,AC Monza
+Gaetano Castrovilli,Mediocentro,11.0,17/02/1997,"3,50 mill. €",3500000.0,AC Monza
+Kevin Zeroli,Mediocentro,18.0,11/01/2005,"3,50 mill. €",3500000.0,AC Monza
+Roberto Gagliardini,Mediocentro,6.0,07/04/1994,"2,00 mill. €",2000000.0,AC Monza
+Stefano Sensi,Mediocentro,12.0,05/08/1995,"1,50 mill. €",1500000.0,AC Monza
+Jean-Daniel Akpa Akpro,Mediocentro,7.0,11/10/1992,500 mil €,500000.0,AC Monza
+Patrick Ciurria,Interior derecho,84.0,09/02/1995,"3,00 mill. €",3000000.0,AC Monza
+Georgios Kyriakopoulos,Interior izquierdo,77.0,05/02/1996,"3,50 mill. €",3500000.0,AC Monza
+Samuele Vignato,Mediocentro ofensivo,80.0,24/02/2004,"3,50 mill. €",3500000.0,AC Monza
+Keita Baldé,Extremo izquierdo,17.0,08/03/1995,"1,00 mill. €",1000000.0,AC Monza
+Omari Forson,Extremo derecho,20.0,20/07/2004,"2,00 mill. €",2000000.0,AC Monza
+Kevin Martins,Extremo derecho,55.0,31/01/2005,"1,50 mill. €",1500000.0,AC Monza
+Dany Mota,Mediapunta,47.0,02/05/1998,"5,00 mill. €",5000000.0,AC Monza
+Gianluca Caprari,Mediapunta,10.0,30/07/1993,"1,50 mill. €",1500000.0,AC Monza
+Silvere Ganvoula,Delantero centro,35.0,29/06/1996,"2,00 mill. €",2000000.0,AC Monza
+Andrea Petagna,Delantero centro,37.0,30/06/1995,"1,40 mill. €",1400000.0,AC Monza
+Zion Suzuki,Portero,31.0,21/08/2002,"14,00 mill. €",14000000.0,Parma Calcio 1913
+Edoardo Corvi,Portero,40.0,23/03/2001,350 mil €,350000.0,Parma Calcio 1913
+Richard Marcone,Portero,33.0,21/01/1993,250 mil €,250000.0,Parma Calcio 1913
+Alessandro Circati,Defensa central,39.0,10/10/2003,"8,50 mill. €",8500000.0,Parma Calcio 1913
+Giovanni Leoni,Defensa central,46.0,21/12/2006,"6,00 mill. €",6000000.0,Parma Calcio 1913
+Botond Balogh,Defensa central,4.0,06/06/2002,"2,50 mill. €",2500000.0,Parma Calcio 1913
+Alessandro Vogliacco,Defensa central,21.0,14/09/1998,"2,00 mill. €",2000000.0,Parma Calcio 1913
+Yordan Osorio,Defensa central,3.0,10/05/1994,"1,70 mill. €",1700000.0,Parma Calcio 1913
+Lautaro Valenti,Defensa central,5.0,14/01/1999,"1,50 mill. €",1500000.0,Parma Calcio 1913
+Mathias Løvik,Lateral izquierdo,18.0,06/12/2003,"5,00 mill. €",5000000.0,Parma Calcio 1913
+Emanuele Valeri,Lateral izquierdo,14.0,07/12/1998,"3,00 mill. €",3000000.0,Parma Calcio 1913
+Enrico Delprato,Lateral derecho,15.0,10/11/1999,"6,00 mill. €",6000000.0,Parma Calcio 1913
+Antoine Hainaut,Lateral derecho,20.0,18/02/2002,"1,00 mill. €",1000000.0,Parma Calcio 1913
+Mandela Keita,Pivote,16.0,10/05/2002,"11,00 mill. €",11000000.0,Parma Calcio 1913
+Nahuel Estévez,Pivote,8.0,14/11/1995,"3,50 mill. €",3500000.0,Parma Calcio 1913
+Adrián Bernabé,Mediocentro,10.0,26/05/2001,"15,00 mill. €",15000000.0,Parma Calcio 1913
+Simon Sohm,Mediocentro,19.0,11/04/2001,"5,00 mill. €",5000000.0,Parma Calcio 1913
+Hernani,Mediocentro,27.0,27/03/1994,"2,00 mill. €",2000000.0,Parma Calcio 1913
+Drissa Camara,Mediocentro,23.0,18/02/2002,"1,80 mill. €",1800000.0,Parma Calcio 1913
+Jacob Ondrejka,Extremo izquierdo,17.0,02/09/2002,"7,00 mill. €",7000000.0,Parma Calcio 1913
+Adrian Benedyczak,Extremo izquierdo,7.0,24/11/2000,"4,50 mill. €",4500000.0,Parma Calcio 1913
+Valentin Mihăilă,Extremo izquierdo,28.0,02/02/2000,"3,00 mill. €",3000000.0,Parma Calcio 1913
+Dennis Man,Extremo derecho,98.0,26/08/1998,"12,50 mill. €",12500000.0,Parma Calcio 1913
+Matteo Cancellieri,Extremo derecho,22.0,12/02/2002,"5,00 mill. €",5000000.0,Parma Calcio 1913
+Pontus Almqvist,Extremo derecho,11.0,10/07/1999,"2,50 mill. €",2500000.0,Parma Calcio 1913
+Anas Haj Mohamed,Extremo derecho,61.0,26/03/2005,"1,80 mill. €",1800000.0,Parma Calcio 1913
+Mateusz Kowalski,Mediapunta,62.0,21/07/2005,300 mil €,300000.0,Parma Calcio 1913
+Ange-Yoan Bonny,Delantero centro,13.0,25/10/2003,"20,00 mill. €",20000000.0,Parma Calcio 1913
+Mateo Pellegrino,Delantero centro,32.0,22/10/2001,"3,50 mill. €",3500000.0,Parma Calcio 1913
+Gabriel Charpentier,Delantero centro,9.0,17/05/1999,"1,60 mill. €",1600000.0,Parma Calcio 1913
+Milan Djuric,Delantero centro,30.0,22/05/1990,"1,50 mill. €",1500000.0,Parma Calcio 1913
+David de Gea,Portero,43.0,07/11/1990,"5,00 mill. €",5000000.0,ACF Fiorentina
+Tommaso Martinelli,Portero,30.0,06/01/2006,"1,80 mill. €",1800000.0,ACF Fiorentina
+Pietro Terracciano,Portero,1.0,08/03/1990,"1,50 mill. €",1500000.0,ACF Fiorentina
+Pietro Comuzzo,Defensa central,15.0,20/02/2005,"25,00 mill. €",25000000.0,ACF Fiorentina
+Luca Ranieri,Defensa central,6.0,23/04/1999,"12,00 mill. €",12000000.0,ACF Fiorentina
+Marin Pongračić,Defensa central,5.0,11/09/1997,"10,00 mill. €",10000000.0,ACF Fiorentina
+Matías Moreno,Defensa central,22.0,24/09/2003,"4,00 mill. €",4000000.0,ACF Fiorentina
+Pablo Marí,Defensa central,18.0,31/08/1993,"3,50 mill. €",3500000.0,ACF Fiorentina
+Robin Gosens,Lateral izquierdo,21.0,05/07/1994,"8,00 mill. €",8000000.0,ACF Fiorentina
+Fabiano Parisi,Lateral izquierdo,65.0,09/11/2000,"5,00 mill. €",5000000.0,ACF Fiorentina
+Dodô,Lateral derecho,2.0,17/11/1998,"22,00 mill. €",22000000.0,ACF Fiorentina
+Yacine Adli,Pivote,29.0,29/07/2000,"15,00 mill. €",15000000.0,ACF Fiorentina
+Rolando Mandragora,Pivote,8.0,29/06/1997,"10,00 mill. €",10000000.0,ACF Fiorentina
+Danilo Cataldi,Pivote,32.0,06/08/1994,"4,00 mill. €",4000000.0,ACF Fiorentina
+Nicolò Fagioli,Mediocentro,44.0,12/02/2001,"18,00 mill. €",18000000.0,ACF Fiorentina
+Amir Richardson,Mediocentro,24.0,24/01/2002,"9,00 mill. €",9000000.0,ACF Fiorentina
+Michael Folorunsho,Mediocentro,90.0,07/02/1998,"7,00 mill. €",7000000.0,ACF Fiorentina
+Edoardo Bove,Mediocentro,4.0,16/05/2002,"5,00 mill. €",5000000.0,ACF Fiorentina
+Cher Ndour,Mediocentro,27.0,27/07/2004,"5,00 mill. €",5000000.0,ACF Fiorentina
+Lucas Beltrán,Mediocentro ofensivo,9.0,29/03/2001,"18,00 mill. €",18000000.0,ACF Fiorentina
+Nicolò Zaniolo,Mediocentro ofensivo,17.0,02/07/1999,"16,00 mill. €",16000000.0,ACF Fiorentina
+Andrea Colpani,Mediocentro ofensivo,23.0,11/05/1999,"12,00 mill. €",12000000.0,ACF Fiorentina
+Maat Daniel Caprini,Extremo izquierdo,63.0,11/02/2006,"2,00 mill. €",2000000.0,ACF Fiorentina
+Albert Gudmundsson,Mediapunta,10.0,15/06/1997,"23,00 mill. €",23000000.0,ACF Fiorentina
+Moise Kean,Delantero centro,20.0,28/02/2000,"40,00 mill. €",40000000.0,ACF Fiorentina
+Marco Carnesecchi,Portero,29.0,01/07/2000,"25,00 mill. €",25000000.0,Atalanta
+Rui Patrício,Portero,28.0,15/02/1988,"1,00 mill. €",1000000.0,Atalanta
+Francesco Rossi,Portero,31.0,27/04/1991,100 mil €,100000.0,Atalanta
+Giorgio Scalvini,Defensa central,42.0,11/12/2003,"35,00 mill. €",35000000.0,Atalanta
+Isak Hien,Defensa central,4.0,13/01/1999,"30,00 mill. €",30000000.0,Atalanta
+Odilon Kossounou,Defensa central,3.0,04/01/2001,"25,00 mill. €",25000000.0,Atalanta
+Stefan Posch,Defensa central,5.0,14/05/1997,"10,00 mill. €",10000000.0,Atalanta
+Sead Kolasinac,Defensa central,23.0,20/06/1993,"10,00 mill. €",10000000.0,Atalanta
+Berat Djimsiti,Defensa central,19.0,19/02/1993,"8,00 mill. €",8000000.0,Atalanta
+Rafael Tolói,Defensa central,2.0,10/10/1990,"1,50 mill. €",1500000.0,Atalanta
+Marten de Roon,Pivote,15.0,29/03/1991,"7,00 mill. €",7000000.0,Atalanta
+Ibrahim Sulemana,Pivote,6.0,22/05/2003,"6,00 mill. €",6000000.0,Atalanta
+Éderson,Mediocentro,13.0,07/07/1999,"50,00 mill. €",50000000.0,Atalanta
+Lazar Samardžić,Mediocentro,24.0,24/02/2002,"20,00 mill. €",20000000.0,Atalanta
+Mario Pasalic,Mediocentro,8.0,09/02/1995,"13,00 mill. €",13000000.0,Atalanta
+Marco Brescianini,Mediocentro,44.0,20/01/2000,"8,00 mill. €",8000000.0,Atalanta
+Raoul Bellanova,Interior derecho,16.0,17/05/2000,"22,00 mill. €",22000000.0,Atalanta
+Davide Zappacosta,Interior derecho,77.0,11/06/1992,"6,00 mill. €",6000000.0,Atalanta
+Marco Palestra,Interior derecho,27.0,03/03/2005,"3,00 mill. €",3000000.0,Atalanta
+Juan Cuadrado,Interior derecho,7.0,26/05/1988,"1,00 mill. €",1000000.0,Atalanta
+Matteo Ruggeri,Interior izquierdo,22.0,11/07/2002,"20,00 mill. €",20000000.0,Atalanta
+Charles De Ketelaere,Mediocentro ofensivo,17.0,10/03/2001,"38,00 mill. €",38000000.0,Atalanta
+Daniel Maldini,Mediocentro ofensivo,70.0,11/10/2001,"10,00 mill. €",10000000.0,Atalanta
+Ademola Lookman,Mediapunta,11.0,20/10/1997,"60,00 mill. €",60000000.0,Atalanta
+Mateo Retegui,Delantero centro,32.0,29/04/1999,"45,00 mill. €",45000000.0,Atalanta
+Gianluca Scamacca,Delantero centro,9.0,01/01/1999,"24,00 mill. €",24000000.0,Atalanta
+Vanja Milinković-Savić,Portero,32.0,20/02/1997,"12,00 mill. €",12000000.0,Torino FC
+Alberto Paleari,Portero,1.0,29/08/1992,500 mil €,500000.0,Torino FC
+Antonio Donnarumma,Portero,17.0,07/07/1990,300 mil €,300000.0,Torino FC
+Saúl Coco,Defensa central,23.0,09/02/1999,"12,00 mill. €",12000000.0,Torino FC
+Perr Schuurs,Defensa central,3.0,26/11/1999,"10,00 mill. €",10000000.0,Torino FC
+Sebastian Walukiewicz,Defensa central,4.0,05/04/2000,"5,00 mill. €",5000000.0,Torino FC
+Guillermo Maripán,Defensa central,13.0,06/05/1994,"4,00 mill. €",4000000.0,Torino FC
+Adam Masina,Defensa central,5.0,02/01/1994,"1,50 mill. €",1500000.0,Torino FC
+Cristiano Biraghi,Lateral izquierdo,34.0,01/09/1992,"2,00 mill. €",2000000.0,Torino FC
+Samuele Ricci,Pivote,28.0,21/08/2001,"30,00 mill. €",30000000.0,Torino FC
+Adrien Tamèze,Pivote,61.0,04/02/1994,"3,50 mill. €",3500000.0,Torino FC
+Ivan Ilić,Mediocentro,8.0,17/03/2001,"18,00 mill. €",18000000.0,Torino FC
+Cesare Casadei,Mediocentro,22.0,10/01/2003,"15,00 mill. €",15000000.0,Torino FC
+Gvidas Gineitis,Mediocentro,66.0,15/04/2004,"5,00 mill. €",5000000.0,Torino FC
+Emirhan İlkhan,Mediocentro,26.0,01/06/2004,"2,50 mill. €",2500000.0,Torino FC
+Karol Linetty,Mediocentro,77.0,02/02/1995,"2,50 mill. €",2500000.0,Torino FC
+Marcus Pedersen,Interior derecho,16.0,16/07/2000,"3,50 mill. €",3500000.0,Torino FC
+Ali Dembélé,Interior derecho,21.0,05/01/2004,800 mil €,800000.0,Torino FC
+Borna Sosa,Interior izquierdo,24.0,21/01/1998,"6,00 mill. €",6000000.0,Torino FC
+Valentino Lazaro,Interior izquierdo,20.0,24/03/1996,"4,50 mill. €",4500000.0,Torino FC
+Eljif Elmas,Mediocentro ofensivo,11.0,24/09/1999,"14,00 mill. €",14000000.0,Torino FC
+Nikola Vlašić,Mediocentro ofensivo,10.0,04/10/1997,"8,00 mill. €",8000000.0,Torino FC
+Alieu Njie,Extremo izquierdo,92.0,14/05/2005,"2,50 mill. €",2500000.0,Torino FC
+Yann Karamoh,Extremo izquierdo,7.0,08/07/1998,"2,20 mill. €",2200000.0,Torino FC
+Zanos Savva,Extremo derecho,79.0,26/11/2005,"1,00 mill. €",1000000.0,Torino FC
+Ché Adams,Delantero centro,18.0,13/07/1996,"15,00 mill. €",15000000.0,Torino FC
+Antonio Sanabria,Delantero centro,9.0,04/03/1996,"4,00 mill. €",4000000.0,Torino FC
+Duván Zapata,Delantero centro,91.0,01/04/1991,"4,00 mill. €",4000000.0,Torino FC
+Amine Salama,Delantero centro,15.0,18/07/2000,"1,80 mill. €",1800000.0,Torino FC
+Mile Svilar,Portero,99.0,27/08/1999,"17,00 mill. €",17000000.0,AS Roma
+Pierluigi Gollini,Portero,95.0,18/03/1995,"1,00 mill. €",1000000.0,AS Roma
+Renato Marin,Portero,89.0,10/07/2006,500 mil €,500000.0,AS Roma
+Evan Ndicka,Defensa central,5.0,20/08/1999,"25,00 mill. €",25000000.0,AS Roma
+Gianluca Mancini,Defensa central,23.0,17/04/1996,"18,00 mill. €",18000000.0,AS Roma
+Victor Nelsson,Defensa central,25.0,14/10/1998,"14,00 mill. €",14000000.0,AS Roma
+Mats Hummels,Defensa central,15.0,16/12/1988,"2,50 mill. €",2500000.0,AS Roma
+Angeliño,Lateral izquierdo,3.0,04/01/1997,"15,00 mill. €",15000000.0,AS Roma
+Anass Salah-Eddine,Lateral izquierdo,34.0,18/01/2002,"8,00 mill. €",8000000.0,AS Roma
+Devyne Rensch,Lateral derecho,2.0,18/01/2003,"12,00 mill. €",12000000.0,AS Roma
+Zeki Çelik,Lateral derecho,19.0,17/02/1997,"5,00 mill. €",5000000.0,AS Roma
+Saud Abdulhamid,Lateral derecho,12.0,18/07/1999,"4,00 mill. €",4000000.0,AS Roma
+Buba Sangaré,Lateral derecho,66.0,06/08/2007,"1,00 mill. €",1000000.0,AS Roma
+Lucas Gourna-Douath,Pivote,27.0,05/08/2003,"8,00 mill. €",8000000.0,AS Roma
+Bryan Cristante,Pivote,4.0,03/03/1995,"7,00 mill. €",7000000.0,AS Roma
+Leandro Paredes,Pivote,16.0,29/06/1994,"5,00 mill. €",5000000.0,AS Roma
+Manu Koné,Mediocentro,17.0,17/05/2001,"35,00 mill. €",35000000.0,AS Roma
+Niccolò Pisilli,Mediocentro,61.0,23/09/2004,"12,00 mill. €",12000000.0,AS Roma
+Lorenzo Pellegrini,Mediocentro ofensivo,7.0,19/06/1996,"14,00 mill. €",14000000.0,AS Roma
+Tommaso Baldanzi,Mediocentro ofensivo,35.0,23/03/2003,"14,00 mill. €",14000000.0,AS Roma
+Stephan El Shaarawy,Extremo izquierdo,92.0,27/10/1992,"5,00 mill. €",5000000.0,AS Roma
+Matías Soulé,Extremo derecho,18.0,15/04/2003,"22,00 mill. €",22000000.0,AS Roma
+Alexis Saelemaekers,Extremo derecho,56.0,27/06/1999,"17,00 mill. €",17000000.0,AS Roma
+Paulo Dybala,Mediapunta,21.0,15/11/1993,"8,00 mill. €",8000000.0,AS Roma
+Artem Dovbyk,Delantero centro,11.0,21/06/1997,"30,00 mill. €",30000000.0,AS Roma
+Eldor Shomurodov,Delantero centro,14.0,29/06/1995,"4,00 mill. €",4000000.0,AS Roma
+Michele Di Gregorio,Portero,29.0,27/07/1997,"18,00 mill. €",18000000.0,Juventus
+Mattia Perin,Portero,1.0,10/11/1992,"3,00 mill. €",3000000.0,Juventus
+Carlo Pinsoglio,Portero,23.0,16/03/1990,200 mil €,200000.0,Juventus
+Bremer,Defensa central,3.0,18/03/1997,"50,00 mill. €",50000000.0,Juventus
+Pierre Kalulu,Defensa central,15.0,05/06/2000,"26,00 mill. €",26000000.0,Juventus
+Federico Gatti,Defensa central,4.0,24/06/1998,"25,00 mill. €",25000000.0,Juventus
+Lloyd Kelly,Defensa central,6.0,06/10/1998,"18,00 mill. €",18000000.0,Juventus
+Renato Veiga,Defensa central,12.0,29/07/2003,"18,00 mill. €",18000000.0,Juventus
+Andrea Cambiaso,Lateral izquierdo,27.0,20/02/2000,"40,00 mill. €",40000000.0,Juventus
+Juan Cabal,Lateral izquierdo,32.0,08/01/2001,"9,00 mill. €",9000000.0,Juventus
+Jonas Rouhi,Lateral izquierdo,40.0,07/01/2004,"2,00 mill. €",2000000.0,Juventus
+Nicolò Savona,Lateral derecho,37.0,19/03/2003,"14,00 mill. €",14000000.0,Juventus
+Alberto Costa,Lateral derecho,2.0,29/09/2003,"10,00 mill. €",10000000.0,Juventus
+Manuel Locatelli,Pivote,5.0,08/01/1998,"28,00 mill. €",28000000.0,Juventus
+Khéphren Thuram,Mediocentro,19.0,26/03/2001,"40,00 mill. €",40000000.0,Juventus
+Douglas Luiz,Mediocentro,26.0,09/05/1998,"38,00 mill. €",38000000.0,Juventus
+Weston McKennie,Mediocentro,16.0,28/08/1998,"24,00 mill. €",24000000.0,Juventus
+Teun Koopmeiners,Mediocentro ofensivo,8.0,28/02/1998,"40,00 mill. €",40000000.0,Juventus
+Vasilije Adžić,Mediocentro ofensivo,17.0,12/05/2006,"3,00 mill. €",3000000.0,Juventus
+Kenan Yıldız,Extremo izquierdo,10.0,04/05/2005,"45,00 mill. €",45000000.0,Juventus
+Samuel Mbangula,Extremo izquierdo,51.0,16/01/2004,"14,00 mill. €",14000000.0,Juventus
+Francisco Conceição,Extremo derecho,7.0,14/12/2002,"36,00 mill. €",36000000.0,Juventus
+Nico González,Extremo derecho,11.0,06/04/1998,"28,00 mill. €",28000000.0,Juventus
+Timothy Weah,Extremo derecho,22.0,22/02/2000,"17,00 mill. €",17000000.0,Juventus
+Dušan Vlahović,Delantero centro,9.0,28/01/2000,"45,00 mill. €",45000000.0,Juventus
+Randal Kolo Muani,Delantero centro,20.0,05/12/1998,"30,00 mill. €",30000000.0,Juventus
+Arkadiusz Milik,Delantero centro,14.0,28/02/1994,"2,00 mill. €",2000000.0,Juventus
+Lukasz Skorupski,Portero,1,05/05/1991,"2,50 mill. €",2500000.0,Bologna FC
+Federico Ravaglia,Portero,34,11/11/1999,"1,00 mill. €",1000000.0,Bologna FC
+Nicola Bagnolini,Portero,23,14/03/2004,200 mil €,200000.0,Bologna FC
+Sam Beukema,Defensa central,31,17/11/1998,"25,00 mill. €",25000000.0,Bologna FC
+Jhon Lucumí,Defensa central,26,26/06/1998,"18,00 mill. €",18000000.0,Bologna FC
+Nicolò Casale,Defensa central,15,14/02/1998,"7,00 mill. €",7000000.0,Bologna FC
+Martin Erlić,Defensa central,5,24/01/1998,"5,00 mill. €",5000000.0,Bologna FC
+Juan Miranda,Lateral izquierdo,33,19/01/2000,"11,00 mill. €",11000000.0,Bologna FC
+Charalampos Lykogiannis,Lateral izquierdo,22,22/10/1993,"1,50 mill. €",1500000.0,Bologna FC
+Emil Holm,Lateral derecho,2,13/05/2000,"8,00 mill. €",8000000.0,Bologna FC
+Davide Calabria,Lateral derecho,14,06/12/1996,"7,50 mill. €",7500000.0,Bologna FC
+Lorenzo De Silvestri,Lateral derecho,29,23/05/1988,400 mil €,400000.0,Bologna FC
+Nikola Moro,Pivote,6,12/03/1998,"5,00 mill. €",5000000.0,Bologna FC
+Oussama El Azzouzi,Pivote,17,29/05/2001,"2,00 mill. €",2000000.0,Bologna FC
+Lewis Ferguson,Mediocentro,19,24/08/1999,"24,00 mill. €",24000000.0,Bologna FC
+Tommaso Pobega,Mediocentro,18,15/07/1999,"10,00 mill. €",10000000.0,Bologna FC
+Michel Aebischer,Mediocentro,20,06/01/1997,"10,00 mill. €",10000000.0,Bologna FC
+Remo Freuler,Mediocentro,8,15/04/1992,"6,50 mill. €",6500000.0,Bologna FC
+Andri Fannar Baldursson,Mediocentro,-,10/01/2002,900 mil €,900000.0,Bologna FC
+Giovanni Fabbian,Mediocentro ofensivo,80,14/01/2003,"13,00 mill. €",13000000.0,Bologna FC
+Jens Odgaard,Mediocentro ofensivo,21,31/03/1999,"12,00 mill. €",12000000.0,Bologna FC
+Benja Domínguez,Extremo izquierdo,30,19/09/2003,"15,00 mill. €",15000000.0,Bologna FC
+Nicolò Cambiaghi,Extremo izquierdo,28,28/12/2000,"7,00 mill. €",7000000.0,Bologna FC
+Estanis Pedrola,Extremo izquierdo,39,24/08/2003,"1,80 mill. €",1800000.0,Bologna FC
+Dan Ndoye,Extremo derecho,11,25/10/2000,"25,00 mill. €",25000000.0,Bologna FC
+Riccardo Orsolini,Extremo derecho,7,24/01/1997,"20,00 mill. €",20000000.0,Bologna FC
+Santiago Castro,Delantero centro,9,18/09/2004,"35,00 mill. €",35000000.0,Bologna FC
+Thijs Dallinga,Delantero centro,24,03/08/2000,"12,00 mill. €",12000000.0,Bologna FC
+Elia Caprile,Portero,25.0,25/08/2001,"8,00 mill. €",8000000.0,Cagliari Calcio
+Alen Sherri,Portero,71.0,15/12/1997,"1,00 mill. €",1000000.0,Cagliari Calcio
+Giuseppe Ciocci,Portero,1.0,24/01/2002,100 mil €,100000.0,Cagliari Calcio
+Sebastiano Luperto,Defensa central,6.0,06/09/1996,"3,50 mill. €",3500000.0,Cagliari Calcio
+Yerry Mina,Defensa central,26.0,23/09/1994,"3,00 mill. €",3000000.0,Cagliari Calcio
+Adam Obert,Defensa central,33.0,23/08/2002,"3,00 mill. €",3000000.0,Cagliari Calcio
+José Luis Palomino,Defensa central,24.0,05/01/1990,700 mil €,700000.0,Cagliari Calcio
+Tommaso Augello,Lateral izquierdo,3.0,30/08/1994,"1,80 mill. €",1800000.0,Cagliari Calcio
+Gabriele Zappa,Lateral derecho,28.0,22/12/1999,"4,00 mill. €",4000000.0,Cagliari Calcio
+Matteo Prati,Pivote,16.0,28/12/2003,"7,00 mill. €",7000000.0,Cagliari Calcio
+Antoine Makoumbou,Pivote,29.0,18/07/1998,"4,00 mill. €",4000000.0,Cagliari Calcio
+Răzvan Marin,Pivote,18.0,23/05/1996,"3,50 mill. €",3500000.0,Cagliari Calcio
+Michel Adopo,Mediocentro,8.0,19/07/2000,"3,00 mill. €",3000000.0,Cagliari Calcio
+Alessandro Deiola,Mediocentro,14.0,01/08/1995,"1,60 mill. €",1600000.0,Cagliari Calcio
+Nadir Zortea,Interior derecho,19.0,19/06/1999,"4,50 mill. €",4500000.0,Cagliari Calcio
+Jakub Jankto,Interior izquierdo,21.0,19/01/1996,"1,00 mill. €",1000000.0,Cagliari Calcio
+Gianluca Gaetano,Mediocentro ofensivo,70.0,05/05/2000,"4,00 mill. €",4000000.0,Cagliari Calcio
+Nicolas Viola,Mediocentro ofensivo,10.0,12/10/1989,"1,00 mill. €",1000000.0,Cagliari Calcio
+Florinel Coman,Extremo izquierdo,9.0,10/04/1998,"6,00 mill. €",6000000.0,Cagliari Calcio
+Mattia Felici,Extremo izquierdo,97.0,17/04/2001,"3,00 mill. €",3000000.0,Cagliari Calcio
+Roberto Piccoli,Delantero centro,91.0,27/01/2001,"8,00 mill. €",8000000.0,Cagliari Calcio
+Zito Luvumbo,Delantero centro,77.0,09/03/2002,"5,50 mill. €",5500000.0,Cagliari Calcio
+Kingstone Mutandwa,Delantero centro,80.0,05/01/2003,"1,00 mill. €",1000000.0,Cagliari Calcio
+Leonardo Pavoletti,Delantero centro,30.0,26/11/1988,700 mil €,700000.0,Cagliari Calcio
+Jean Butez,Portero,30.0,08/06/1995,"3,00 mill. €",3000000.0,Como 1907
+Pepe Reina,Portero,25.0,31/08/1982,600 mil €,600000.0,Como 1907
+Mauro Vigorito,Portero,22.0,22/05/1990,150 mil €,150000.0,Como 1907
+Pierre Bolchini,Portero,12.0,27/02/1999,50 mil €,50000.0,Como 1907
+Alberto Dossena,Defensa central,13.0,13/10/1998,"7,00 mill. €",7000000.0,Como 1907
+Marc Oliver Kempf,Defensa central,2.0,28/01/1995,"2,50 mill. €",2500000.0,Como 1907
+Edoardo Goldaniga,Defensa central,5.0,02/11/1993,"2,00 mill. €",2000000.0,Como 1907
+Fellipe Jack,Defensa central,15.0,12/01/2006,"1,40 mill. €",1400000.0,Como 1907
+Álex Valle,Lateral izquierdo,41.0,25/04/2004,"4,50 mill. €",4500000.0,Como 1907
+Alberto Moreno,Lateral izquierdo,18.0,05/07/1992,"1,80 mill. €",1800000.0,Como 1907
+Ignace Van der Brempt,Lateral derecho,77.0,01/04/2002,"4,00 mill. €",4000000.0,Como 1907
+Mërgim Vojvoda,Lateral derecho,31.0,01/02/1995,"3,00 mill. €",3000000.0,Como 1907
+Ivan Smolcic,Lateral derecho,28.0,17/08/2000,"2,00 mill. €",2000000.0,Como 1907
+Máximo Perrone,Pivote,23.0,07/01/2003,"9,00 mill. €",9000000.0,Como 1907
+Yannik Engelhardt,Pivote,26.0,07/02/2001,"7,00 mill. €",7000000.0,Como 1907
+Maxence Caqueret,Mediocentro,80.0,15/02/2000,"15,00 mill. €",15000000.0,Como 1907
+Lucas Da Cunha,Mediocentro,33.0,09/06/2001,"7,00 mill. €",7000000.0,Como 1907
+Sergi Roberto,Mediocentro,20.0,07/02/1992,"2,00 mill. €",2000000.0,Como 1907
+Matthias Braunöder,Mediocentro,27.0,27/03/2002,"1,60 mill. €",1600000.0,Como 1907
+Giuseppe Mazzaglia,Mediocentro,58.0,20/04/2006,250 mil €,250000.0,Como 1907
+Alessio Iovine,Interior derecho,6.0,01/02/1991,400 mil €,400000.0,Como 1907
+Nico Paz,Mediocentro ofensivo,79.0,08/09/2004,"35,00 mill. €",35000000.0,Como 1907
+Dele Alli,Mediocentro ofensivo,8.0,11/04/1996,"3,50 mill. €",3500000.0,Como 1907
+Naj Razi,Mediocentro ofensivo,44.0,28/10/2006,300 mil €,300000.0,Como 1907
+Alieu Fadera,Extremo izquierdo,16.0,03/11/2001,"5,00 mill. €",5000000.0,Como 1907
+Assane Diao,Extremo derecho,38.0,07/09/2005,"25,00 mill. €",25000000.0,Como 1907
+Jonathan Ikoné,Extremo derecho,19.0,02/05/1998,"8,00 mill. €",8000000.0,Como 1907
+Gabriel Strefezza,Extremo derecho,7.0,18/04/1997,"6,00 mill. €",6000000.0,Como 1907
+Anastasios Douvikas,Delantero centro,11.0,02/08/1999,"8,00 mill. €",8000000.0,Como 1907
+Patrick Cutrone,Delantero centro,10.0,03/01/1998,"7,00 mill. €",7000000.0,Como 1907
+Iván Azón,Delantero centro,90.0,24/12/2002,"3,00 mill. €",3000000.0,Como 1907
+Alessandro Gabrielloni,Delantero centro,9.0,10/07/1994,"1,00 mill. €",1000000.0,Como 1907
+Devis Vásquez,Portero,23.0,12/05/1998,"2,00 mill. €",2000000.0,Empoli FC
+Jacopo Seghetti,Portero,12.0,17/02/2005,"1,00 mill. €",1000000.0,Empoli FC
+Marco Silvestri,Portero,1.0,02/03/1991,500 mil €,500000.0,Empoli FC
+Federico Brancolini,Portero,98.0,14/07/2001,200 mil €,200000.0,Empoli FC
+Saba Goglichidze,Defensa central,2.0,25/06/2004,"8,00 mill. €",8000000.0,Empoli FC
+Mattia Viti,Defensa central,21.0,24/01/2002,"6,50 mill. €",6500000.0,Empoli FC
+Ardian Ismajli,Defensa central,34.0,30/09/1996,"6,00 mill. €",6000000.0,Empoli FC
+Luca Marianucci,Defensa central,35.0,23/07/2004,"5,00 mill. €",5000000.0,Empoli FC
+Saba Sazonov,Defensa central,15.0,01/02/2002,"2,50 mill. €",2500000.0,Empoli FC
+Liberato Cacace,Lateral izquierdo,13.0,27/09/2000,"3,00 mill. €",3000000.0,Empoli FC
+Giuseppe Pezzella,Lateral izquierdo,3.0,29/11/1997,"2,50 mill. €",2500000.0,Empoli FC
+Tyronne Ebuehi,Lateral derecho,24.0,16/12/1995,"1,50 mill. €",1500000.0,Empoli FC
+Junior Sambia,Lateral derecho,7.0,07/09/1996,"1,40 mill. €",1400000.0,Empoli FC
+Mattia De Sciglio,Lateral derecho,22.0,20/10/1992,"1,00 mill. €",1000000.0,Empoli FC
+Alberto Grassi,Pivote,5.0,07/03/1995,"2,00 mill. €",2000000.0,Empoli FC
+Jacopo Fazzini,Mediocentro,10.0,16/03/2003,"8,00 mill. €",8000000.0,Empoli FC
+Youssef Maleh,Mediocentro,93.0,22/08/1998,"4,00 mill. €",4000000.0,Empoli FC
+Szymon Żurkowski,Mediocentro,27.0,25/09/1997,"2,50 mill. €",2500000.0,Empoli FC
+Liam Henderson,Mediocentro,6.0,25/04/1996,"1,80 mill. €",1800000.0,Empoli FC
+Nicolas Haas,Mediocentro,32.0,23/01/1996,700 mil €,700000.0,Empoli FC
+Emmanuel Gyasi,Interior derecho,11.0,11/01/1994,"2,00 mill. €",2000000.0,Empoli FC
+Tino Anjorin,Mediocentro ofensivo,8.0,23/11/2001,"6,00 mill. €",6000000.0,Empoli FC
+Viktor Kovalenko,Mediocentro ofensivo,20.0,14/02/1996,"1,00 mill. €",1000000.0,Empoli FC
+Ola Solbakken,Extremo derecho,17.0,07/09/1998,"2,50 mill. €",2500000.0,Empoli FC
+Sebastiano Esposito,Mediapunta,99.0,02/07/2002,"10,00 mill. €",10000000.0,Empoli FC
+Christian Kouamé,Delantero centro,18.0,06/12/1997,"6,00 mill. €",6000000.0,Empoli FC
+Lorenzo Colombo,Delantero centro,29.0,08/03/2002,"6,00 mill. €",6000000.0,Empoli FC
+Pietro Pellegri,Delantero centro,9.0,17/03/2001,"2,50 mill. €",2500000.0,Empoli FC
+Nicola Leali,Portero,1.0,17/02/1993,"1,50 mill. €",1500000.0,Genoa CFC
+Benjamin Siegrist,Portero,31.0,31/01/1992,650 mil €,650000.0,Genoa CFC
+Daniele Sommariva,Portero,39.0,18/07/1997,100 mil €,100000.0,Genoa CFC
+Koni De Winter,Defensa central,4.0,12/06/2002,"18,00 mill. €",18000000.0,Genoa CFC
+Johan Vásquez,Defensa central,22.0,22/10/1998,"12,00 mill. €",12000000.0,Genoa CFC
+Alan Matturro,Defensa central,33.0,11/10/2004,"8,00 mill. €",8000000.0,Genoa CFC
+Mattia Bani,Defensa central,13.0,10/12/1993,"2,00 mill. €",2000000.0,Genoa CFC
+Sebastian Otoa,Defensa central,34.0,13/05/2004,"2,00 mill. €",2000000.0,Genoa CFC
+Aarón Martín,Lateral izquierdo,3.0,22/04/1997,"6,50 mill. €",6500000.0,Genoa CFC
+Honest Ahanor,Lateral izquierdo,69.0,23/02/2008,"3,00 mill. €",3000000.0,Genoa CFC
+Alessandro Zanoli,Lateral derecho,59.0,03/10/2000,"6,00 mill. €",6000000.0,Genoa CFC
+Brooke Norton-Cuffy,Lateral derecho,15.0,12/01/2004,"3,50 mill. €",3500000.0,Genoa CFC
+Stefano Sabelli,Lateral derecho,20.0,13/01/1993,"1,50 mill. €",1500000.0,Genoa CFC
+Jean Onana,Pivote,5.0,08/01/2000,"3,00 mill. €",3000000.0,Genoa CFC
+Lior Kassa,Pivote,53.0,27/09/2005,"1,50 mill. €",1500000.0,Genoa CFC
+Milan Badelj,Pivote,47.0,25/02/1989,800 mil €,800000.0,Genoa CFC
+Morten Frendrup,Mediocentro,32.0,07/04/2001,"20,00 mill. €",20000000.0,Genoa CFC
+Fabio Miretti,Mediocentro,23.0,03/08/2003,"14,00 mill. €",14000000.0,Genoa CFC
+Patrizio Masini,Mediocentro,73.0,27/01/2001,"3,50 mill. €",3500000.0,Genoa CFC
+Morten Thorsby,Mediocentro,2.0,05/05/1996,"3,00 mill. €",3000000.0,Genoa CFC
+Ruslan Malinovskyi,Mediocentro ofensivo,17.0,04/05/1993,"3,50 mill. €",3500000.0,Genoa CFC
+Hugo Cuenca,Mediocentro ofensivo,30.0,08/01/2005,300 mil €,300000.0,Genoa CFC
+Maxwel Cornet,Extremo izquierdo,70.0,27/09/1996,"8,00 mill. €",8000000.0,Genoa CFC
+Junior Messias,Extremo derecho,10.0,13/05/1991,"2,00 mill. €",2000000.0,Genoa CFC
+Andrea Pinamonti,Delantero centro,19.0,19/05/1999,"16,00 mill. €",16000000.0,Genoa CFC
+Vitinha,Delantero centro,9.0,15/03/2000,"10,00 mill. €",10000000.0,Genoa CFC
+Jeff Ekhator,Delantero centro,21.0,11/11/2006,"5,00 mill. €",5000000.0,Genoa CFC
+Caleb Ekuban,Delantero centro,18.0,23/03/1994,"1,50 mill. €",1500000.0,Genoa CFC
+Mario Balotelli,Delantero centro,45.0,12/08/1990,500 mil €,500000.0,Genoa CFC

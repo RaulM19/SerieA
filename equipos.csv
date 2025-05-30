@@ -1,21 +1,21 @@
-nombre           , nombre_web
-SSC Napoli       , ssc-napoli
-Inter            , inter
-Atalanta         , atalanta
-Juventus         , juventus
-AS Roma          , as-roma
-Lazio Roma       , lazio-roma
-ACF Fiorentina   , acf-fiorentina
-Bologna FC       , bologna-fc
-AC Milan         , ac-milan
-Como 1907        , como-1907
-Torino FC        , torino-fc
-Udinese Calcio   , udinese-calcio
-Genoa CFC        , genoa-cfc
-Cagliari Calcio  , cagliari-calcio
-Hellas Verona    , hellas-verona
-Parma Calcio 1913, parma-calcio-1913
-Empoli FC        , empoli-fc
-US Lecce         , us-lecce
-Venezia FC       , venezia-fc
-AC Monza         , ac-monza
+nombre,nombre_web
+SSC Napoli,ssc-napoli
+Inter,inter
+Atalanta,atalanta
+Juventus,juventus
+AS Roma,as-roma
+Lazio Roma,lazio-roma
+ACF Fiorentina,acf-fiorentina
+Bologna FC,bologna-fc
+AC Milan,ac-milan
+Como 1907,como-1907
+Torino FC,torino-fc
+Udinese Calcio,udinese-calcio
+Genoa CFC,genoa-cfc
+Cagliari Calcio,cagliari-calcio
+Hellas Verona,hellas-verona
+Parma Calcio 1913,parma-calcio-1913
+Empoli FC,empoli-fc
+US Lecce,us-lecce
+Venezia FC,venezia-fc
+AC Monza,ac-monza
