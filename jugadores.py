@@ -79,7 +79,7 @@ def open_browser() -> webdriver.Chrome:
 def normaliza(txt: str) -> str:
     txt = unicodedata.normalize("NFKD", txt).encode("ascii", "ignore").decode()
     txt = txt.lower()
-    txt = re.sub(r"\b(ssc?|ac|as|us|fc|cfc|calcio|roma|1907|1913)\b", "", txt)
+    txt = re.sub(r"\b(ssc?|ac|as|us|fc|cfc|calcio|roma|1907|1913|acf|hellas)\b", "", txt)
     txt = re.sub(r"[^a-z0-9]", " ", txt)
     return re.sub(r"\s+", " ", txt).strip()
 
