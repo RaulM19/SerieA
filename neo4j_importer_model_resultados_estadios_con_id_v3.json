@@ -1,0 +1,477 @@
+{
+  "version": "0.1.0-beta.0",
+  "graph": {
+    "nodes": [
+      {
+        "id": "n0",
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "caption": "Equipo"
+      },
+      {
+        "id": "n1",
+        "position": {
+          "x": 300,
+          "y": 0
+        },
+        "caption": "Estadio"
+      },
+      {
+        "id": "n2",
+        "position": {
+          "x": 0,
+          "y": 300
+        },
+        "caption": "Jugador"
+      }
+    ],
+    "relationships": [
+      {
+        "id": "r0",
+        "type": "ES_LOCAL",
+        "fromId": "n1",
+        "toId": "n0"
+      },
+      {
+        "id": "r1",
+        "type": "VS",
+        "fromId": "n0",
+        "toId": "n0"
+      },
+      {
+        "id": "r2",
+        "type": "JUEGA_EN",
+        "fromId": "n2",
+        "toId": "n0"
+      },
+      {
+        "id": "r3",
+        "type": "TRASPASO",
+        "fromId": "n2",
+        "toId": "n0"
+      }
+    ]
+  },
+  "dataModel": {
+    "fileModel": {
+      "fileSchemas": {
+        "equipos.csv": {
+          "fields": [
+            {
+              "name": "nombre",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "nombre_web",
+              "type": "string",
+              "include": true
+            }
+          ]
+        },
+        "estadios.csv": {
+          "fields": [
+            {
+              "name": "nombre_estadio",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "capacidad",
+              "type": "string",
+              "include": true
+            }
+          ]
+        },
+        "resultados.csv": {
+          "fields": [
+            {
+              "name": "Equipo1",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "Equipo2",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "Partidos",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "Ganados",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "Empatados",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "Perdidos",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "Goles",
+              "type": "string",
+              "include": true
+            }
+          ]
+        },
+        "jugadores.csv": {
+          "fields": [
+            {
+              "name": "Jugadores",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "posicion",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "#",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "F. Nacim.",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "Valor de mercado",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "Valor de mercado Num",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "Equipo",
+              "type": "string",
+              "include": true
+            }
+          ]
+        },
+        "resultado_fichajes.csv": {
+          "fields": [
+            {
+              "name": "nombre_equipo",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "nombre_jugador",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "fecha_inicio",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "fecha_fin",
+              "type": "string",
+              "include": true
+            }
+          ]
+        },
+        "estadio_equipo.csv": {
+          "fields": [
+            {
+              "name": "nombre_equipo",
+              "type": "string",
+              "include": true
+            },
+            {
+              "name": "nombre_estadio",
+              "type": "string",
+              "include": true
+            }
+          ]
+        }
+      }
+    },
+    "graphModel": {
+      "nodeSchemas": {
+        "n0": {
+          "label": "Equipo",
+          "properties": [
+            {
+              "property": "nombre",
+              "type": "string"
+            },
+            {
+              "property": "nombre_web",
+              "type": "string"
+            }
+          ],
+          "key": {
+            "properties": [
+              "nombre"
+            ],
+            "name": ""
+          }
+        },
+        "n1": {
+          "label": "Estadio",
+          "properties": [
+            {
+              "property": "nombre_estadio",
+              "type": "string"
+            },
+            {
+              "property": "capacidad",
+              "type": "string"
+            }
+          ],
+          "key": {
+            "properties": [
+              "nombre_estadio"
+            ],
+            "name": ""
+          }
+        },
+        "n2": {
+          "label": "Jugador",
+          "properties": [
+            {
+              "property": "Jugadores",
+              "type": "string"
+            },
+            {
+              "property": "posicion",
+              "type": "string"
+            },
+            {
+              "property": "#",
+              "type": "string"
+            },
+            {
+              "property": "F. Nacim.",
+              "type": "string"
+            },
+            {
+              "property": "Valor de mercado",
+              "type": "string"
+            },
+            {
+              "property": "Valor de mercado Num",
+              "type": "string"
+            }
+          ],
+          "key": {
+            "properties": [
+              "Jugadores"
+            ],
+            "name": ""
+          }
+        }
+      },
+      "relationshipSchemas": {
+        "r0": {
+          "type": "ES_LOCAL",
+          "sourceNodeSchema": "n1",
+          "targetNodeSchema": "n0",
+          "properties": []
+        },
+        "r1": {
+          "type": "VS",
+          "sourceNodeSchema": "n0",
+          "targetNodeSchema": "n0",
+          "properties": [
+            {
+              "property": "Partidos",
+              "type": "string"
+            },
+            {
+              "property": "Ganados",
+              "type": "string"
+            },
+            {
+              "property": "Empatados",
+              "type": "string"
+            },
+            {
+              "property": "Perdidos",
+              "type": "string"
+            },
+            {
+              "property": "Goles",
+              "type": "string"
+            }
+          ]
+        },
+        "r2": {
+          "type": "JUEGA_EN",
+          "sourceNodeSchema": "n2",
+          "targetNodeSchema": "n0",
+          "properties": []
+        },
+        "r3": {
+          "type": "TRASPASO",
+          "sourceNodeSchema": "n2",
+          "targetNodeSchema": "n0",
+          "properties": [
+            {
+              "property": "fecha_inicio",
+              "type": "string"
+            },
+            {
+              "property": "fecha_fin",
+              "type": "string"
+            }
+          ]
+        }
+      }
+    },
+    "mappingModel": {
+      "nodeMappings": {
+        "n0": {
+          "nodeSchema": "n0",
+          "fileSchema": "equipos.csv",
+          "mappings": [
+            {
+              "field": "nombre"
+            },
+            {
+              "field": "nombre_web"
+            }
+          ]
+        },
+        "n1": {
+          "nodeSchema": "n1",
+          "fileSchema": "estadios.csv",
+          "mappings": [
+            {
+              "field": "nombre_estadio"
+            },
+            {
+              "field": "capacidad"
+            }
+          ]
+        },
+        "n2": {
+          "nodeSchema": "n2",
+          "fileSchema": "jugadores.csv",
+          "mappings": [
+            {
+              "field": "Jugadores"
+            },
+            {
+              "field": "posicion"
+            },
+            {
+              "field": "#"
+            },
+            {
+              "field": "F. Nacim."
+            },
+            {
+              "field": "Valor de mercado"
+            },
+            {
+              "field": "Valor de mercado Num"
+            }
+          ]
+        }
+      },
+      "relationshipMappings": {
+        "r0": {
+          "relationshipSchema": "r0",
+          "fileSchema": "estadio_equipo.csv",
+          "sourceMappings": [
+            {
+              "field": "nombre_estadio"
+            }
+          ],
+          "targetMappings": [
+            {
+              "field": "nombre_equipo"
+            }
+          ],
+          "mappings": []
+        },
+        "r1": {
+          "relationshipSchema": "r1",
+          "fileSchema": "resultados.csv",
+          "sourceMappings": [
+            {
+              "field": "Equipo1"
+            }
+          ],
+          "targetMappings": [
+            {
+              "field": "Equipo2"
+            }
+          ],
+          "mappings": [
+            {
+              "field": "Partidos"
+            },
+            {
+              "field": "Ganados"
+            },
+            {
+              "field": "Empatados"
+            },
+            {
+              "field": "Perdidos"
+            },
+            {
+              "field": "Goles"
+            }
+          ]
+        },
+        "r2": {
+          "relationshipSchema": "r2",
+          "fileSchema": "jugadores.csv",
+          "sourceMappings": [
+            {
+              "field": "Jugadores"
+            }
+          ],
+          "targetMappings": [
+            {
+              "field": "Equipo"
+            }
+          ],
+          "mappings": []
+        },
+        "r3": {
+          "relationshipSchema": "r3",
+          "fileSchema": "resultado_fichajes.csv",
+          "sourceMappings": [
+            {
+              "field": "nombre_jugador"
+            }
+          ],
+          "targetMappings": [
+            {
+              "field": "nombre_equipo"
+            }
+          ],
+          "mappings": [
+            {
+              "field": "fecha_inicio"
+            },
+            {
+              "field": "fecha_fin"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
