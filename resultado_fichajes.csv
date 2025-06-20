@@ -33,7 +33,7 @@ SSC Napoli,Alex Meret,05/07/2018,30/06/2019
 Udinese Calcio,Alex Meret,30/06/2019,01/07/2019
 SSC Napoli,Alex Meret,01/07/2019,al presente
 Udinese Calcio,Simone Scuffet,01/07/2013,06/08/2015
-Como,Simone Scuffet,06/08/2015,30/06/2016
+Como 1907,Simone Scuffet,06/08/2015,30/06/2016
 Udinese Calcio,Simone Scuffet,30/06/2016,16/01/2019
 Udinese Calcio,Simone Scuffet,30/06/2019,19/08/2019
 Udinese Calcio,Simone Scuffet,31/08/2020,30/08/2021
@@ -80,7 +80,7 @@ AS Roma,Leonardo Spinazzola,01/07/2019,10/07/2024
 SSC Napoli,Leonardo Spinazzola,10/07/2024,al presente
 Empoli FC,Giovanni Di Lorenzo,30/08/2017,01/07/2019
 SSC Napoli,Giovanni Di Lorenzo,01/07/2019,al presente
-Parma Calcio,Pasquale Mazzocchi,12/01/2016,09/07/2018
+Parma Calcio 1913,Pasquale Mazzocchi,12/01/2016,09/07/2018
 Venezia FC,Pasquale Mazzocchi,23/09/2020,25/01/2022
 Venezia FC,Pasquale Mazzocchi,30/06/2022,01/07/2022
 SSC Napoli,Pasquale Mazzocchi,05/01/2024,al presente
@@ -106,8 +106,8 @@ Inter,Matteo Politano,30/06/2021,01/07/2021
 SSC Napoli,Matteo Politano,01/07/2021,al presente
 Hellas Verona,Cyril Ngonge,19/01/2023,19/01/2024
 SSC Napoli,Cyril Ngonge,19/01/2024,al presente
-SSC Napoli,Giacomo Raspadori,20/08/2022,30/06/2023
-SSC Napoli,Giacomo Raspadori,01/07/2023,al presente
+SSC Napoli,GiaComo 1907 Raspadori,20/08/2022,30/06/2023
+SSC Napoli,GiaComo 1907 Raspadori,01/07/2023,al presente
 Inter,Romelu Lukaku,08/08/2019,12/08/2021
 Inter,Romelu Lukaku,01/07/2022,30/06/2023
 AS Roma,Romelu Lukaku,30/08/2023,30/06/2024
@@ -136,7 +136,7 @@ Atalanta,Alessandro Bastoni,01/01/2017,31/08/2017
 Inter,Alessandro Bastoni,31/08/2017,31/08/2017
 Atalanta,Alessandro Bastoni,31/08/2017,30/06/2018
 Inter,Alessandro Bastoni,30/06/2018,07/08/2018
-Parma Calcio,Alessandro Bastoni,07/08/2018,30/06/2019
+Parma Calcio 1913,Alessandro Bastoni,07/08/2018,30/06/2019
 Inter,Alessandro Bastoni,30/06/2019,al presente
 Inter,Benjamin Pavard,30/08/2023,al presente
 Inter,Yann Bisseck,12/07/2023,al presente
@@ -155,7 +155,7 @@ Inter,Federico Dimarco,30/06/2016,01/07/2016
 Empoli FC,Federico Dimarco,01/07/2016,30/06/2017
 Inter,Federico Dimarco,30/06/2017,01/07/2017
 Inter,Federico Dimarco,05/07/2018,07/08/2018
-Parma Calcio,Federico Dimarco,07/08/2018,30/06/2019
+Parma Calcio 1913,Federico Dimarco,07/08/2018,30/06/2019
 Inter,Federico Dimarco,30/06/2019,31/01/2020
 Hellas Verona,Federico Dimarco,31/01/2020,30/06/2021
 Inter,Federico Dimarco,30/06/2021,al presente
@@ -168,9 +168,9 @@ AC Milan,Matteo Darmian,01/07/2007,17/07/2009
 AC Milan,Matteo Darmian,30/06/2010,12/07/2010
 Torino FC,Matteo Darmian,12/07/2011,30/06/2012
 Torino FC,Matteo Darmian,05/07/2012,11/07/2015
-Parma Calcio,Matteo Darmian,02/09/2019,05/10/2020
+Parma Calcio 1913,Matteo Darmian,02/09/2019,05/10/2020
 Inter,Matteo Darmian,05/10/2020,30/06/2021
-Parma Calcio,Matteo Darmian,30/06/2021,01/07/2021
+Parma Calcio 1913,Matteo Darmian,30/06/2021,01/07/2021
 Inter,Matteo Darmian,01/07/2021,al presente
 AC Milan,Hakan Calhanoglu,03/07/2017,01/07/2021
 Inter,Hakan Calhanoglu,01/07/2021,al presente
@@ -180,7 +180,7 @@ Empoli FC,Kristjan Asllani,30/06/2023,01/07/2023
 Inter,Kristjan Asllani,01/07/2023,al presente
 Inter,Petar Sucic,01/06/2025,al presente
 Cagliari Calcio,Nicolo Barella,01/07/2014,05/01/2016
-Como,Nicolo Barella,05/01/2016,30/06/2016
+Como 1907,Nicolo Barella,05/01/2016,30/06/2016
 Cagliari Calcio,Nicolo Barella,30/06/2016,12/07/2019
 Inter,Nicolo Barella,12/07/2019,31/08/2020
 Cagliari Calcio,Nicolo Barella,31/08/2020,01/09/2020
@@ -217,7 +217,8 @@ Inter,Marko Arnautovic,05/08/2009,30/06/2010
 Bologna FC,Marko Arnautovic,01/08/2021,16/08/2023
 Inter,Marko Arnautovic,16/08/2023,30/06/2024
 Bologna FC,Marko Arnautovic,30/06/2024,01/07/2024
-Inter,Marko Arnautovic,01/07/2024,al presenteAtalanta,Marco Carnesecchi,01/07/2019,25/07/2019
+Inter,Marko Arnautovic,01/07/2024,al presente
+Atalanta,Marco Carnesecchi,01/07/2019,25/07/2019
 Atalanta,Marco Carnesecchi,31/08/2020,05/01/2021
 Atalanta,Marco Carnesecchi,30/06/2022,31/08/2022
 Atalanta,Marco Carnesecchi,30/06/2023,al presente
@@ -461,7 +462,8 @@ Genoa CFC,Eldor Shomurodov,01/10/2020,02/08/2021
 AS Roma,Eldor Shomurodov,02/08/2021,30/01/2023
 AS Roma,Eldor Shomurodov,30/06/2023,27/07/2023
 Cagliari Calcio,Eldor Shomurodov,27/07/2023,30/06/2024
-AS Roma,Eldor Shomurodov,30/06/2024,al presenteEmpoli FC,Ivan Provedel,11/07/2017,22/01/2020
+AS Roma,Eldor Shomurodov,30/06/2024,al presente
+Empoli FC,Ivan Provedel,11/07/2017,22/01/2020
 Empoli FC,Ivan Provedel,31/08/2020,05/10/2020
 Lazio Roma,Ivan Provedel,08/08/2022,al presente
 Lazio Roma,Christos Mandas,01/09/2023,al presente
@@ -540,7 +542,8 @@ Lazio Roma,Loum Tchaouna,01/07/2024,al presente
 AS Roma,Pedro,01/09/2020,19/08/2021
 Lazio Roma,Pedro,19/08/2021,al presente
 Lazio Roma,Taty Castellanos,21/07/2023,al presente
-Lazio Roma,Boulaye Dia,16/08/2024,30/06/2026ACF Fiorentina,David De Gea,09/08/2024,al presente
+Lazio Roma,Boulaye Dia,16/08/2024,30/06/2026ACF Fiorentina,
+David De Gea,09/08/2024,al presente
 ACF Fiorentina,Tommaso Martinelli,01/07/2023,al presente
 Empoli FC,Pietro Terracciano,11/07/2017,22/01/2019
 ACF Fiorentina,Pietro Terracciano,22/01/2019,30/06/2019
@@ -711,7 +714,8 @@ Bologna FC,Riccardo Orsolini,31/01/2018,30/06/2019
 Juventus,Riccardo Orsolini,30/06/2019,01/07/2019
 Bologna FC,Riccardo Orsolini,01/07/2019,al presente
 Bologna FC,Santiago Castro,30/01/2024,al presente
-Bologna FC,Thijs Dallinga,23/07/2024,al presenteAC Milan,Mike Maignan,01/07/2021,al presente
+Bologna FC,Thijs Dallinga,23/07/2024,al presente
+AC Milan,Mike Maignan,01/07/2021,al presente
 Atalanta,Marco Sportiello,22/06/2012,14/07/2012
 Atalanta,Marco Sportiello,30/06/2013,13/01/2017
 ACF Fiorentina,Marco Sportiello,13/01/2017,30/06/2018
@@ -760,70 +764,71 @@ AS Roma,Tammy Abraham,17/08/2021,30/08/2024
 AC Milan,Tammy Abraham,30/08/2024,30/06/2025
 AS Roma,Tammy Abraham,30/06/2025,al presente
 ACF Fiorentina,Luka Jovic,08/07/2022,01/09/2023
-AC Milan,Luka Jovic,01/09/2023,al presenteComo,Jean Butez,07/01/2025,al presente
+AC Milan,Luka Jovic,01/09/2023,al presente
+Como 1907,Jean Butez,07/01/2025,al presente
 SSC Napoli,Pepe Reina,29/07/2013,30/06/2014
 SSC Napoli,Pepe Reina,01/07/2015,01/07/2018
 AC Milan,Pepe Reina,01/07/2018,13/01/2020
 AC Milan,Pepe Reina,31/07/2020,01/09/2020
 Lazio Roma,Pepe Reina,01/09/2020,08/07/2022
-Como,Pepe Reina,18/07/2024,01/07/2025
+Como 1907,Pepe Reina,18/07/2024,01/07/2025
 Cagliari Calcio,Mauro Vigorito,01/07/2009,01/08/2010
 Cagliari Calcio,Mauro Vigorito,01/07/2011,31/01/2012
 Cagliari Calcio,Mauro Vigorito,30/06/2012,16/07/2012
 Cagliari Calcio,Mauro Vigorito,01/07/2013,18/07/2013
 US Lecce,Mauro Vigorito,31/07/2018,28/08/2021
-Como,Mauro Vigorito,01/09/2022,30/06/2023
-Como,Mauro Vigorito,01/07/2023,al presente
-Como,Pierre Bolchini,28/08/2019,al presente
+Como 1907,Mauro Vigorito,01/09/2022,30/06/2023
+Como 1907,Mauro Vigorito,01/07/2023,al presente
+Como 1907,Pierre Bolchini,28/08/2019,al presente
 Atalanta,Alberto Dossena,30/01/2018,31/01/2018
 Atalanta,Alberto Dossena,30/06/2018,24/07/2018
 Atalanta,Alberto Dossena,30/06/2019,02/08/2019
 Atalanta,Alberto Dossena,31/08/2020,15/09/2020
 Cagliari Calcio,Alberto Dossena,12/08/2022,01/07/2024
-Como,Alberto Dossena,01/07/2024,al presente
-Como,Marc Oliver Kempf,28/08/2024,al presente
+Como 1907,Alberto Dossena,01/07/2024,al presente
+Como 1907,Marc Oliver Kempf,28/08/2024,al presente
 Juventus,Edoardo Goldaniga,01/07/2014,02/07/2014
 Juventus,Edoardo Goldaniga,30/06/2015,01/07/2015
 Genoa CFC,Edoardo Goldaniga,02/09/2019,30/06/2021
 Cagliari Calcio,Edoardo Goldaniga,12/01/2022,28/01/2024
-Como,Edoardo Goldaniga,28/01/2024,al presente
-Como,Fellipe Jack,01/07/2024,30/06/2025
-Como,Alex Valle,31/01/2025,30/06/2025
-Como,Alex Valle,01/07/2025,al presente
-Como,Alberto Moreno,19/07/2024,al presente
-Como,Ignace Van Der Brempt,30/08/2024,30/06/2025
-Como,Ignace Van Der Brempt,01/07/2025,al presente
+Como 1907,Edoardo Goldaniga,28/01/2024,al presente
+Como 1907,Fellipe Jack,01/07/2024,30/06/2025
+Como 1907,Alex Valle,31/01/2025,30/06/2025
+Como 1907,Alex Valle,01/07/2025,al presente
+Como 1907,Alberto Moreno,19/07/2024,al presente
+Como 1907,Ignace Van Der Brempt,30/08/2024,30/06/2025
+Como 1907,Ignace Van Der Brempt,01/07/2025,al presente
 Torino FC,Mergim Vojvoda,01/09/2020,03/02/2025
-Como,Mergim Vojvoda,03/02/2025,al presente
-Como,Ivan Smolcic,03/02/2025,al presente
-Como,Maximo Perrone,25/08/2024,30/06/2025
-Como,Yannik Engelhardt,01/08/2024,al presente
-Como,Maxence Caqueret,12/01/2025,al presente
-Como,Lucas Da Cunha,16/01/2023,al presente
-Como,Sergi Roberto,23/08/2024,al presente
-Como,Matthias Braunoder,25/01/2024,30/06/2024
-Como,Matthias Braunoder,01/07/2024,al presente
-Como,Giuseppe Mazzaglia,31/07/2024,al presente
-Como,Alessio Iovine,05/07/2019,01/07/2025
-Como,Nico Paz,25/08/2024,al presente
-Como,Dele Alli,19/01/2025,al presente
-Como,Naj Razi,01/07/2024,al presente
-Como,Alieu Fadera,14/08/2024,al presente
-Como,Assane Diao,07/01/2025,al presente
+Como 1907,Mergim Vojvoda,03/02/2025,al presente
+Como 1907,Ivan Smolcic,03/02/2025,al presente
+Como 1907,Maximo Perrone,25/08/2024,30/06/2025
+Como 1907,Yannik Engelhardt,01/08/2024,al presente
+Como 1907,Maxence Caqueret,12/01/2025,al presente
+Como 1907,Lucas Da Cunha,16/01/2023,al presente
+Como 1907,Sergi Roberto,23/08/2024,al presente
+Como 1907,Matthias Braunoder,25/01/2024,30/06/2024
+Como 1907,Matthias Braunoder,01/07/2024,al presente
+Como 1907,Giuseppe Mazzaglia,31/07/2024,al presente
+Como 1907,Alessio Iovine,05/07/2019,01/07/2025
+Como 1907,Nico Paz,25/08/2024,al presente
+Como 1907,Dele Alli,19/01/2025,al presente
+Como 1907,Naj Razi,01/07/2024,al presente
+Como 1907,Alieu Fadera,14/08/2024,al presente
+Como 1907,Assane Diao,07/01/2025,al presente
 ACF Fiorentina,Jonathan Ikone,03/01/2022,31/01/2025
-Como,Jonathan Ikone,31/01/2025,30/06/2025
+Como 1907,Jonathan Ikone,31/01/2025,30/06/2025
 ACF Fiorentina,Jonathan Ikone,30/06/2025,al presente
 US Lecce,Gabriel Strefezza,12/08/2021,29/01/2024
-Como,Gabriel Strefezza,29/01/2024,30/06/2024
+Como 1907,Gabriel Strefezza,29/01/2024,30/06/2024
 US Lecce,Gabriel Strefezza,30/06/2024,01/07/2024
-Como,Gabriel Strefezza,01/07/2024,al presente
-Como,Anastasios Douvikas,03/02/2025,al presente
+Como 1907,Gabriel Strefezza,01/07/2024,al presente
+Como 1907,Anastasios Douvikas,03/02/2025,al presente
 AC Milan,Patrick Cutrone,18/01/2017,30/07/2019
 ACF Fiorentina,Patrick Cutrone,10/01/2020,07/01/2021
 Empoli FC,Patrick Cutrone,13/08/2021,30/06/2022
-Como,Patrick Cutrone,29/08/2022,al presente
-Como,Ivan Azon,03/02/2025,al presente
-Como,Alessandro Gabrielloni,31/01/2018,al presente
+Como 1907,Patrick Cutrone,29/08/2022,al presente
+Como 1907,Ivan Azon,03/02/2025,al presente
+Como 1907,Alessandro Gabrielloni,31/01/2018,al presente
 Torino FC,Vanja Milinkovic Savic,01/07/2017,06/07/2018
 Torino FC,Vanja Milinkovic Savic,30/01/2019,31/01/2019
 Torino FC,Vanja Milinkovic Savic,30/06/2019,01/07/2019
@@ -904,10 +909,10 @@ Torino FC,Alieu Njie,01/07/2024,al presente
 Inter,Yann Karamoh,31/08/2017,30/06/2018
 Inter,Yann Karamoh,01/07/2018,31/08/2018
 Inter,Yann Karamoh,30/06/2019,17/07/2019
-Parma Calcio,Yann Karamoh,17/07/2019,31/08/2020
+Parma Calcio 1913,Yann Karamoh,17/07/2019,31/08/2020
 Inter,Yann Karamoh,31/08/2020,01/09/2020
-Parma Calcio,Yann Karamoh,01/09/2020,06/09/2021
-Parma Calcio,Yann Karamoh,30/06/2022,01/09/2022
+Parma Calcio 1913,Yann Karamoh,01/09/2020,06/09/2021
+Parma Calcio 1913,Yann Karamoh,30/06/2022,01/09/2022
 Torino FC,Yann Karamoh,01/09/2022,01/02/2024
 Torino FC,Yann Karamoh,30/06/2024,al presente
 Torino FC,Zanos Savva,01/07/2024,al presente
@@ -971,7 +976,8 @@ Udinese Calcio,Alexis Sanchez,30/06/2008,21/07/2011
 Inter,Alexis Sanchez,29/08/2019,31/08/2020
 Inter,Alexis Sanchez,01/09/2020,10/08/2022
 Inter,Alexis Sanchez,26/08/2023,10/08/2024
-Udinese Calcio,Alexis Sanchez,10/08/2024,al presenteJuventus,Nicola Leali,03/07/2012,30/08/2012
+Udinese Calcio,Alexis Sanchez,10/08/2024,al presente
+Juventus,Nicola Leali,03/07/2012,30/08/2012
 Juventus,Nicola Leali,30/06/2013,30/07/2013
 Juventus,Nicola Leali,30/06/2014,07/07/2014
 Juventus,Nicola Leali,30/06/2015,13/07/2015
@@ -996,7 +1002,7 @@ Genoa CFC,Johan Vasquez,30/06/2023,al presente
 Genoa CFC,Alan Matturro,02/01/2023,al presente
 Bologna FC,Mattia Bani,01/07/2019,05/10/2020
 Genoa CFC,Mattia Bani,05/10/2020,01/02/2021
-Parma Calcio,Mattia Bani,01/02/2021,30/06/2021
+Parma Calcio 1913,Mattia Bani,01/02/2021,30/06/2021
 Genoa CFC,Mattia Bani,30/06/2021,al presente
 Genoa CFC,Sebastian Otoa,16/01/2025,al presente
 Genoa CFC,Aaron Martin,03/07/2023,al presente
@@ -1104,7 +1110,7 @@ Atalanta,Michel Adopo,30/06/2025,al presente
 Cagliari Calcio,Alessandro Deiola,01/07/2014,23/08/2014
 Cagliari Calcio,Alessandro Deiola,30/06/2015,31/08/2016
 Cagliari Calcio,Alessandro Deiola,31/01/2017,17/08/2018
-Parma Calcio,Alessandro Deiola,17/08/2018,22/01/2019
+Parma Calcio 1913,Alessandro Deiola,17/08/2018,22/01/2019
 Cagliari Calcio,Alessandro Deiola,22/01/2019,10/01/2020
 US Lecce,Alessandro Deiola,10/01/2020,31/08/2020
 Cagliari Calcio,Alessandro Deiola,31/08/2020,22/09/2020
@@ -1146,7 +1152,7 @@ US Lecce,Roberto Piccoli,31/08/2023,30/06/2024
 Atalanta,Roberto Piccoli,30/06/2024,17/07/2024
 Cagliari Calcio,Roberto Piccoli,17/07/2024,30/06/2025
 Atalanta,Roberto Piccoli,30/06/2025,al presente
-Como,Zito Luvumbo,27/07/2021,31/01/2022
+Como 1907,Zito Luvumbo,27/07/2021,31/01/2022
 Cagliari Calcio,Zito Luvumbo,01/07/2022,al presente
 Cagliari Calcio,Kingstone Mutandwa,01/07/2024,al presente
 Genoa CFC,Leonardo Pavoletti,30/01/2015,30/06/2015
@@ -1213,72 +1219,72 @@ Hellas Verona,Daniel Mosquera,04/07/2024,al presente
 Hellas Verona,Dailon Rocha Livramento,24/07/2024,al presente
 Hellas Verona,Mathis Lambourde,30/08/2024,al presente
 Hellas Verona,Junior Ajayi,01/07/2024,al presente
-Parma Calcio,Zion Suzuki,15/07/2024,al presente
-Parma Calcio,Edoardo Corvi,01/07/2020,13/01/2021
-Parma Calcio,Edoardo Corvi,30/06/2022,al presente
+Parma Calcio 1913,Zion Suzuki,15/07/2024,al presente
+Parma Calcio 1913,Edoardo Corvi,01/07/2020,13/01/2021
+Parma Calcio 1913,Edoardo Corvi,30/06/2022,al presente
 Hellas Verona,Richard Marcone,26/01/2016,30/06/2016
-Parma Calcio,Richard Marcone,10/01/2025,al presente
-Parma Calcio,Alessandro Circati,01/07/2022,al presente
-Parma Calcio,Giovanni Leoni,27/08/2024,al presente
-Parma Calcio,Botond Balogh,01/09/2020,al presente
+Parma Calcio 1913,Richard Marcone,10/01/2025,al presente
+Parma Calcio 1913,Alessandro Circati,01/07/2022,al presente
+Parma Calcio 1913,Giovanni Leoni,27/08/2024,al presente
+Parma Calcio 1913,Botond Balogh,01/09/2020,al presente
 Genoa CFC,Alessandro Vogliacco,13/08/2021,14/08/2021
 Genoa CFC,Alessandro Vogliacco,30/06/2022,15/01/2025
-Parma Calcio,Alessandro Vogliacco,15/01/2025,30/06/2025
+Parma Calcio 1913,Alessandro Vogliacco,15/01/2025,30/06/2025
 Genoa CFC,Alessandro Vogliacco,30/06/2025,al presente
-Parma Calcio,Yordan Osorio,05/10/2020,al presente
-Parma Calcio,Lautaro Valenti,26/09/2020,30/06/2021
-Parma Calcio,Lautaro Valenti,01/07/2021,al presente
-Parma Calcio,Mathias Lovik,08/01/2025,al presente
+Parma Calcio 1913,Yordan Osorio,05/10/2020,al presente
+Parma Calcio 1913,Lautaro Valenti,26/09/2020,30/06/2021
+Parma Calcio 1913,Lautaro Valenti,01/07/2021,al presente
+Parma Calcio 1913,Mathias Lovik,08/01/2025,al presente
 US Lecce,Emanuele Valeri,18/07/2017,31/07/2018
-Parma Calcio,Emanuele Valeri,01/07/2024,al presente
+Parma Calcio 1913,Emanuele Valeri,01/07/2024,al presente
 Atalanta,Enrico Delprato,31/08/2020,11/09/2020
 Atalanta,Enrico Delprato,30/06/2021,31/08/2021
-Parma Calcio,Enrico Delprato,31/08/2021,30/06/2022
+Parma Calcio 1913,Enrico Delprato,31/08/2021,30/06/2022
 Atalanta,Enrico Delprato,30/06/2022,01/07/2022
-Parma Calcio,Enrico Delprato,01/07/2022,al presente
-Parma Calcio,Antoine Hainaut,31/01/2022,01/02/2022
-Parma Calcio,Antoine Hainaut,30/06/2022,al presente
-Parma Calcio,Mandela Keita,30/08/2024,al presente
-Parma Calcio,Nahuel Estevez,02/07/2022,al presente
-Parma Calcio,Adrian Bernabe,07/07/2021,al presente
-Parma Calcio,Simon Sohm,04/10/2020,al presente
-Parma Calcio,Hernani,12/07/2019,31/08/2020
-Parma Calcio,Hernani,01/09/2020,07/08/2021
+Parma Calcio 1913,Enrico Delprato,01/07/2022,al presente
+Parma Calcio 1913,Antoine Hainaut,31/01/2022,01/02/2022
+Parma Calcio 1913,Antoine Hainaut,30/06/2022,al presente
+Parma Calcio 1913,Mandela Keita,30/08/2024,al presente
+Parma Calcio 1913,Nahuel Estevez,02/07/2022,al presente
+Parma Calcio 1913,Adrian Bernabe,07/07/2021,al presente
+Parma Calcio 1913,Simon Sohm,04/10/2020,al presente
+Parma Calcio 1913,Hernani,12/07/2019,31/08/2020
+Parma Calcio 1913,Hernani,01/09/2020,07/08/2021
 Genoa CFC,Hernani,07/08/2021,31/08/2022
-Parma Calcio,Hernani,31/08/2022,01/09/2022
-Parma Calcio,Hernani,30/06/2023,al presente
-Parma Calcio,Drissa Camara,01/07/2021,al presente
-Parma Calcio,Jacob Ondrejka,23/01/2025,al presente
-Parma Calcio,Adrian Benedyczak,01/07/2021,al presente
-Parma Calcio,Valentin Mihaila,05/10/2020,31/01/2022
+Parma Calcio 1913,Hernani,31/08/2022,01/09/2022
+Parma Calcio 1913,Hernani,30/06/2023,al presente
+Parma Calcio 1913,Drissa Camara,01/07/2021,al presente
+Parma Calcio 1913,Jacob Ondrejka,23/01/2025,al presente
+Parma Calcio 1913,Adrian Benedyczak,01/07/2021,al presente
+Parma Calcio 1913,Valentin Mihaila,05/10/2020,31/01/2022
 Atalanta,Valentin Mihaila,31/01/2022,30/06/2022
-Parma Calcio,Valentin Mihaila,30/06/2022,al presente
-Parma Calcio,Dennis Man,29/01/2021,al presente
+Parma Calcio 1913,Valentin Mihaila,30/06/2022,al presente
+Parma Calcio 1913,Dennis Man,29/01/2021,al presente
 Hellas Verona,Matteo Cancellieri,01/07/2021,01/07/2022
 Lazio Roma,Matteo Cancellieri,01/07/2022,30/06/2023
 Hellas Verona,Matteo Cancellieri,30/06/2023,01/07/2023
 Lazio Roma,Matteo Cancellieri,01/07/2023,16/08/2023
 Empoli FC,Matteo Cancellieri,16/08/2023,30/06/2024
 Lazio Roma,Matteo Cancellieri,30/06/2024,14/08/2024
-Parma Calcio,Matteo Cancellieri,14/08/2024,30/06/2025
+Parma Calcio 1913,Matteo Cancellieri,14/08/2024,30/06/2025
 Lazio Roma,Matteo Cancellieri,30/06/2025,al presente
 US Lecce,Pontus Almqvist,01/07/2023,30/06/2024
-Parma Calcio,Pontus Almqvist,13/08/2024,al presente
-Parma Calcio,Anas Haj Mohamed,01/07/2023,al presente
-Parma Calcio,Mateusz Kowalski,01/07/2024,al presente
-Parma Calcio,Ange Yoan Bonny,31/08/2021,al presente
-Parma Calcio,Mateo Pellegrino,03/02/2025,al presente
+Parma Calcio 1913,Pontus Almqvist,13/08/2024,al presente
+Parma Calcio 1913,Anas Haj Mohamed,01/07/2023,al presente
+Parma Calcio 1913,Mateusz Kowalski,01/07/2024,al presente
+Parma Calcio 1913,Ange Yoan Bonny,31/08/2021,al presente
+Parma Calcio 1913,Mateo Pellegrino,03/02/2025,al presente
 Genoa CFC,Gabriel Charpentier,04/09/2020,17/09/2020
 Genoa CFC,Gabriel Charpentier,31/01/2021,01/02/2021
 Genoa CFC,Gabriel Charpentier,30/06/2021,28/07/2021
 Genoa CFC,Gabriel Charpentier,30/06/2022,30/08/2022
-Parma Calcio,Gabriel Charpentier,30/08/2022,al presente
-Parma Calcio,Milan Djuric,01/07/2010,01/08/2010
-Parma Calcio,Milan Djuric,01/12/2010,01/01/2011
-Parma Calcio,Milan Djuric,30/06/2012,01/07/2012
+Parma Calcio 1913,Gabriel Charpentier,30/08/2022,al presente
+Parma Calcio 1913,Milan Djuric,01/07/2010,01/08/2010
+Parma Calcio 1913,Milan Djuric,01/12/2010,01/01/2011
+Parma Calcio 1913,Milan Djuric,30/06/2012,01/07/2012
 Hellas Verona,Milan Djuric,01/07/2022,26/01/2024
 AC Monza,Milan Djuric,26/01/2024,22/01/2025
-Parma Calcio,Milan Djuric,22/01/2025,al presente
+Parma Calcio 1913,Milan Djuric,22/01/2025,al presente
 AC Milan,Devis Vasquez,03/01/2023,05/08/2023
 AC Milan,Devis Vasquez,18/01/2024,19/01/2024
 AC Milan,Devis Vasquez,30/06/2024,18/07/2024
@@ -1310,13 +1316,13 @@ Empoli FC,Liberato Cacace,01/07/2022,al presente
 Udinese Calcio,Giuseppe Pezzella,01/07/2017,19/01/2019
 Genoa CFC,Giuseppe Pezzella,19/01/2019,30/06/2019
 Udinese Calcio,Giuseppe Pezzella,30/06/2019,27/08/2019
-Parma Calcio,Giuseppe Pezzella,27/08/2019,31/08/2020
+Parma Calcio 1913,Giuseppe Pezzella,27/08/2019,31/08/2020
 Udinese Calcio,Giuseppe Pezzella,31/08/2020,01/09/2020
-Parma Calcio,Giuseppe Pezzella,01/09/2020,27/07/2021
+Parma Calcio 1913,Giuseppe Pezzella,01/09/2020,27/07/2021
 Atalanta,Giuseppe Pezzella,27/07/2021,30/06/2022
-Parma Calcio,Giuseppe Pezzella,30/06/2022,26/08/2022
+Parma Calcio 1913,Giuseppe Pezzella,30/06/2022,26/08/2022
 US Lecce,Giuseppe Pezzella,26/08/2022,30/06/2023
-Parma Calcio,Giuseppe Pezzella,30/06/2023,31/07/2023
+Parma Calcio 1913,Giuseppe Pezzella,30/06/2023,31/07/2023
 Empoli FC,Giuseppe Pezzella,31/07/2023,al presente
 Venezia FC,Tyronne Ebuehi,01/07/2021,30/06/2022
 Empoli FC,Tyronne Ebuehi,05/07/2022,al presente
@@ -1331,13 +1337,13 @@ SSC Napoli,Alberto Grassi,27/01/2016,30/08/2016
 Atalanta,Alberto Grassi,30/08/2016,30/06/2017
 SSC Napoli,Alberto Grassi,30/06/2017,27/07/2017
 SSC Napoli,Alberto Grassi,30/06/2018,14/08/2018
-Parma Calcio,Alberto Grassi,14/08/2018,31/08/2020
+Parma Calcio 1913,Alberto Grassi,14/08/2018,31/08/2020
 SSC Napoli,Alberto Grassi,31/08/2020,01/09/2020
-Parma Calcio,Alberto Grassi,01/09/2020,21/08/2021
+Parma Calcio 1913,Alberto Grassi,01/09/2020,21/08/2021
 Cagliari Calcio,Alberto Grassi,21/08/2021,30/06/2022
-Parma Calcio,Alberto Grassi,30/06/2022,17/08/2022
+Parma Calcio 1913,Alberto Grassi,30/06/2022,17/08/2022
 Empoli FC,Alberto Grassi,17/08/2022,30/06/2023
-Parma Calcio,Alberto Grassi,30/06/2023,01/07/2023
+Parma Calcio 1913,Alberto Grassi,30/06/2023,01/07/2023
 Empoli FC,Alberto Grassi,01/07/2023,al presente
 Empoli FC,Jacopo Fazzini,01/07/2022,al presente
 Venezia FC,Youssef Maleh,31/07/2018,01/08/2018
@@ -1410,7 +1416,7 @@ Torino FC,Pietro Pellegri,01/07/2022,30/08/2024
 Empoli FC,Pietro Pellegri,30/08/2024,30/06/2025
 Torino FC,Pietro Pellegri,30/06/2025,al presente
 Empoli FC,Ismael Konate,29/08/2024,al presente
-Como,Wladimiro Falcone,19/07/2014,30/06/2015
+Como 1907,Wladimiro Falcone,19/07/2014,30/06/2015
 US Lecce,Wladimiro Falcone,17/07/2022,30/06/2023
 US Lecce,Wladimiro Falcone,27/07/2023,al presente
 US Lecce,Christian Fruchtl,01/07/2024,al presente
@@ -1424,9 +1430,9 @@ US Lecce,Elijah Scott,01/02/2025,al presente
 US Lecce,Antonino Gallo,25/07/2019,21/01/2020
 US Lecce,Antonino Gallo,31/08/2020,al presente
 Inter,Marco Sala,30/06/2019,01/07/2019
-Como,Marco Sala,24/07/2023,03/02/2025
+Como 1907,Marco Sala,24/07/2023,03/02/2025
 US Lecce,Marco Sala,03/02/2025,30/06/2025
-Como,Marco Sala,30/06/2025,al presente
+Como 1907,Marco Sala,30/06/2025,al presente
 US Lecce,Vernon Addo,01/07/2024,al presente
 US Lecce,Frederic Guilbert,27/08/2024,al presente
 US Lecce,Danilo Veiga,28/01/2025,al presente
@@ -1454,8 +1460,8 @@ ACF Fiorentina,Ante Rebic,30/06/2018,01/07/2018
 AC Milan,Ante Rebic,02/09/2019,11/09/2020
 AC Milan,Ante Rebic,12/09/2020,31/07/2023
 US Lecce,Ante Rebic,26/08/2024,al presente
-Parma Calcio,Nicola Sansone,02/07/2011,31/08/2011
-Parma Calcio,Nicola Sansone,30/06/2012,21/01/2014
+Parma Calcio 1913,Nicola Sansone,02/07/2011,31/08/2011
+Parma Calcio 1913,Nicola Sansone,30/06/2012,21/01/2014
 Bologna FC,Nicola Sansone,04/01/2019,30/06/2019
 Bologna FC,Nicola Sansone,01/07/2019,01/07/2023
 US Lecce,Nicola Sansone,11/09/2023,al presente
@@ -1480,7 +1486,7 @@ Genoa CFC,Ionut Radu,01/07/2019,12/07/2019
 Inter,Ionut Radu,12/07/2019,13/07/2019
 Genoa CFC,Ionut Radu,13/07/2019,29/01/2020
 Inter,Ionut Radu,29/01/2020,30/01/2020
-Parma Calcio,Ionut Radu,30/01/2020,31/08/2020
+Parma Calcio 1913,Ionut Radu,30/01/2020,31/08/2020
 Inter,Ionut Radu,31/08/2020,08/07/2022
 Inter,Ionut Radu,24/01/2023,25/01/2023
 Inter,Ionut Radu,30/06/2023,27/07/2023
@@ -1517,7 +1523,7 @@ Hellas Verona,Francesco Zampano,30/06/2015,23/07/2015
 Udinese Calcio,Francesco Zampano,26/01/2018,30/06/2018
 Venezia FC,Francesco Zampano,01/07/2022,al presente
 Venezia FC,Cheick Conde,08/01/2025,al presente
-Parma Calcio,Hans Nicolussi Caviglia,05/10/2020,30/06/2021
+Parma Calcio 1913,Hans Nicolussi Caviglia,05/10/2020,30/06/2021
 Juventus,Hans Nicolussi Caviglia,01/07/2023,22/08/2024
 Venezia FC,Hans Nicolussi Caviglia,22/08/2024,30/06/2025
 Juventus,Hans Nicolussi Caviglia,30/06/2025,01/07/2025
@@ -1603,7 +1609,7 @@ AC Milan,Matteo Pessina,01/07/2015,10/08/2015
 US Lecce,Matteo Pessina,10/08/2015,18/01/2016
 AC Milan,Matteo Pessina,18/01/2016,19/01/2016
 AC Milan,Matteo Pessina,30/06/2016,15/07/2016
-Como,Matteo Pessina,15/07/2016,30/06/2017
+Como 1907,Matteo Pessina,15/07/2016,30/06/2017
 AC Milan,Matteo Pessina,30/06/2017,07/07/2017
 Atalanta,Matteo Pessina,07/07/2017,25/08/2017
 Atalanta,Matteo Pessina,30/06/2018,26/08/2019
@@ -1666,7 +1672,7 @@ AS Roma,Gianluca Caprari,30/06/2012,01/07/2012
 AS Roma,Gianluca Caprari,01/07/2013,24/01/2014
 Inter,Gianluca Caprari,08/07/2016,09/07/2016
 Inter,Gianluca Caprari,30/06/2017,01/07/2017
-Parma Calcio,Gianluca Caprari,31/01/2020,31/08/2020
+Parma Calcio 1913,Gianluca Caprari,31/01/2020,31/08/2020
 Hellas Verona,Gianluca Caprari,31/08/2021,30/06/2022
 Hellas Verona,Gianluca Caprari,01/07/2022,21/07/2022
 AC Monza,Gianluca Caprari,21/07/2022,30/06/2023
