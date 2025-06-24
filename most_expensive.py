@@ -2,14 +2,14 @@ from neo4j import GraphDatabase
 
 
 # Replace with the actual URI, username and password
-AURA_CONNECTION_URI = "neo4j+s://da91fa3e.databases.neo4j.io"
-AURA_USERNAME = "neo4j"
-AURA_PASSWORD = "P9k60EGJi8pb7d2zMlTkmW9aX4e5Zexz7aNy85yBn1A"
+URI      = "neo4j+s://ad1c0800.databases.neo4j.io"
+USER     = "neo4j"
+PASSWORD = "jqXYhbQmS7Fu4lU31K8jbl2Gin8lQ8SXDLepnFjUdtM"
 
 # Driver instantiation
 driver = GraphDatabase.driver(
-    AURA_CONNECTION_URI,
-    auth=(AURA_USERNAME, AURA_PASSWORD)
+    URI,
+    auth=(USER, PASSWORD)
 )
 
 driver.verify_connectivity()

@@ -14,14 +14,17 @@ driver = GraphDatabase.driver(
 
 driver.verify_connectivity()
 
-def query_longest_positive(tx):
+def query_longest_positive_correct(tx):
+    # ESTA ES LA SINTAXIS VÁLIDA Y EFICIENTE
     cypher = """
-    MATCH p = (e1:Equipo)-[:VS*13..13 {esVictoria: true}]->(eN)
+    MATCH p = (e1:Equipo)-[:VS*16..16 {esVictoria: true}]->(eN)
+
+    // La condición de no repetir nodos sigue siendo necesaria
     WHERE size(nodes(p)) = size(apoc.coll.toSet(nodes(p)))
-      AND ALL(n IN nodes(p) WHERE n.nombre <> 'SSC Napoli')
-      AND ALL(n IN nodes(p) WHERE n.nombre <> 'Inter')
+
     WITH p
     LIMIT 1
+
     RETURN
       [n IN nodes(p) | n.nombre] AS equipos,
       [rel IN relationships(p) | toInteger(rel.Ganados) - toInteger(rel.Perdidos)] AS diffs,
@@ -29,6 +32,9 @@ def query_longest_positive(tx):
     """
     return list(tx.run(cypher))
 
+# El código para ejecutarla no cambia
 with driver.session() as session:
-    for record in session.execute_read(query_longest_positive):
+    # Asegúrate de que estás en una sesión de escritura si necesitas correr el Paso 1
+    # session.execute_write(...) 
+    for record in session.execute_read(query_longest_positive_correct):
         print(record["equipos"], record["diffs"], record["pasos"])
