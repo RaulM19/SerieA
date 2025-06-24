@@ -16,10 +16,8 @@ driver.verify_connectivity()
 
 def query_longest_positive(tx):
     cypher = """
-    MATCH p = (e1:Equipo)-[:VS*13..13 {esVictoria: true}]->(eN)
+    MATCH p = (e1:Equipo)-[:VS*15 ..15 {esVictoria: true}]->(eN)
     WHERE size(nodes(p)) = size(apoc.coll.toSet(nodes(p)))
-      AND ALL(n IN nodes(p) WHERE n.nombre <> 'SSC Napoli')
-      AND ALL(n IN nodes(p) WHERE n.nombre <> 'Inter')
     WITH p
     LIMIT 1
     RETURN
